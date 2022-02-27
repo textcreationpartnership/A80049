@@ -1,0 +1,1265 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Morbus epidemicus: or, the danger of self-seeking; discovered in a sermon preached before the right honorable, the Lord Major of the city of London, at Mercers-Chappel, Novemb. 18. 1649. By John Cardell.</title>
+            <author>Cardell, John.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1650</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 115 KB of XML-encoded text transcribed from 22 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A80049</idno>
+            <idno type="STC">Wing C494</idno>
+            <idno type="STC">Thomason E589_19</idno>
+            <idno type="STC">ESTC R206319</idno>
+            <idno type="EEBO-CITATION">99865492</idno>
+            <idno type="PROQUEST">99865492</idno>
+            <idno type="VID">117737</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A80049)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 117737)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 90:E589[19])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Morbus epidemicus: or, the danger of self-seeking; discovered in a sermon preached before the right honorable, the Lord Major of the city of London, at Mercers-Chappel, Novemb. 18. 1649. By John Cardell.</title>
+                  <author>Cardell, John.</author>
+               </titleStmt>
+               <extent>[4], 38, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by John Field,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1650.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>With a final errata leaf.</note>
+                  <note>Annotations on Thomason copy: "Jan: 22 1649"; the 50 in imprint date crossed out.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-07</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2013-07</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:117737:1" rendition="simple:additions"/>
+            <p>
+               <hi>Morbus Epidemicus:</hi> OR, THE DANGER OF SELF-SEEKING; Diſcovered in a SERMON PREACHED Before the Right Honorable, The Lord Major of the City of LONDON, At <hi>Mercers</hi>-Chappel, <hi>Novemb.</hi> 18. 1649.</p>
+            <p>By JOHN CARDELL.</p>
+            <q>
+               <p>
+                  <bibl>
+                     <hi>Rom. 14.7, 8.</hi>
+                  </bibl> For none of us liveth to himſelf, and no man dyeth to him<g ref="char:EOLhyphen"/>ſelf: For whether we live, we live unto the Lord; and whether we dye, we dye unto the Lord: whether we live therefore or dye, we are the Lords.</p>
+               <p>
+                  <bibl>
+                     <hi>2 Cor. 5.14, 15.</hi>
+                  </bibl> For the love of Chriſt conſtraineth us, becauſe we thus judge, that if one dyed for all, then were all dead. And that he dyed for all, that they which live, ſhould not henceforth live unto them<g ref="char:EOLhyphen"/>ſelves, but unto him that dyed for them, and roſe again.</p>
+               <p>
+                  <hi>Neceſſe eſt alterutrum in nobis affectum regnare: ut vel nobis poſthabitis feramur ad Chriſtum, &amp; quae ſunt Chriſti: vel in noſtram utilitatem nimium propenſi, defunctorie Chriſto ſerviamus,</hi>
+                  <bibl>
+                     <hi>Johan. Calvin. Commentar. in cap. 2. Epiſtol. ad Philip.</hi>
+                  </bibl>
+               </p>
+            </q>
+            <p>
+               <hi>London,</hi> Printed by <hi>John Field,</hi> 1650.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:117737:2"/>
+            <pb facs="tcp:117737:2"/>
+            <head>To the Right Honorable, <hi>THOMAS FOOT,</hi> LORD MAJOR OF The Famous City of LONDON: Together with the Right Worſhipful, The ALDERMEN His BRETHREN.</head>
+            <opener>
+               <salute>Right Honorable and Right Worſhipful,</salute>
+            </opener>
+            <p>ALl that I ſhall <hi>Preface</hi> to the enſuing <hi>Sermon,</hi> is this, Humbly to <hi>acquaint</hi> you, That the <hi>pub<g ref="char:EOLhyphen"/>liſhing</hi> of theſe <hi>mean</hi> Endeavors (in <hi>obedience</hi> to your <hi>Command,</hi> and more then <hi>ſingle</hi> motion) will cry <hi>aloud</hi> in your <hi>ears</hi> for <hi>Juſtice</hi> at your <hi>hands;</hi> and for <hi>ſuch</hi> a piece of <hi>Juſtice,</hi> as would <hi>render</hi> us all <hi>ex<g ref="char:EOLhyphen"/>ceeding</hi> happy, if God <hi>would</hi> but <hi>ſtrengthen</hi> your <hi>hearts</hi> and <hi>hands</hi> to <hi>go</hi> before us, and us to <hi>comply</hi> with you therein: For (loe)
+<note n="(a)" place="margin">Iudg 16.24</note> 
+               <hi>our Enemy, and the Deſtroyer of our Countrey</hi> [Self] is now <hi>apprehended</hi> and brought <hi>before</hi> you, the worthy <hi>Magiſtrates</hi> of this <hi>Re<g ref="char:EOLhyphen"/>nowned</hi> City: And it may well be <hi>expected</hi> from you, That ye <hi>ſhould</hi> proceed unto ſome <hi>exemplary</hi> Puniſh<g ref="char:EOLhyphen"/>ment, upon ſo
+<note n="(b)" place="margin">Hoſtis Rei<g ref="char:EOLhyphen"/>publicae &amp; Peſtis.</note> 
+               <hi>dangerous</hi> an Adverſary; otherwiſe (having already both <hi>owned,</hi> and <hi>accepted</hi> the Charge,
+<pb facs="tcp:117737:3"/>
+               <note n="(c)" place="margin">In the Ser<g ref="char:EOLhyphen"/>mon from page 14, &amp;c.</note> 
+               <hi>exhibited</hi> againſt him, as an <hi>Enemy</hi> to all <hi>Piety, Unity</hi> and <hi>Policy;</hi> and owned it ſo <hi>far,</hi> as to <hi>Call</hi> for this <hi>open</hi> publication of it) ye will, <hi>I know,</hi> bear with my
+<note n="(d)" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, 2 Cor. 3.12.</note> 
+               <hi>plainneſs,</hi> in telling you, That ye <hi>muſt</hi> (being <hi>thus far</hi> engaged) either <hi>proceed</hi> unto the <hi>Condemna<g ref="char:EOLhyphen"/>tion of Self,</hi> or elſe be <hi>looked</hi> upon as
+<note n="(e)" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, Tit. 3.11.</note> 
+               <hi>Self-con<g ref="char:EOLhyphen"/>demned.</hi> Ariſe therefore <hi>(Honored Patriots)</hi> unto a <hi>ſpeedy</hi> and faithful <hi>execution of Juſtice and Judge<g ref="char:EOLhyphen"/>ment,</hi> upon this grand <hi>Incendiary;</hi> and <hi>let</hi> all the <hi>world</hi> ſee, That as your <hi>Actings</hi> of late have been <hi>high,</hi> and <hi>extraordinary,</hi> and far beyond the <hi>proportion</hi> of for<g ref="char:EOLhyphen"/>mer <hi>Times</hi> and <hi>Ages,</hi> ſo that ye have had <hi>nothing</hi> in your <hi>eye</hi> therein, or <hi>nothing</hi> of your <hi>own,</hi> ſo much as the <hi>Glory</hi> of <hi>God,</hi> the <hi>things</hi> of <hi>Chriſt,</hi> and the <hi>good</hi> of the <hi>Publique.</hi> To perſwade <hi>whereunto,</hi> as it is the <hi>chief</hi> ſcope and <hi>drift</hi> of the <hi>following</hi> Diſcourſe, ſo that <hi>theſe</hi> may <hi>ſtill</hi> be, the <hi>principal</hi> things that ye <hi>aym</hi> at, in <hi>all</hi> your <hi>great,</hi> and weighty <hi>Undertakings,</hi> is the <hi>unfained</hi> deſire, and <hi>earneſt</hi> Prayer of</p>
+            <closer>
+               <signed>
+                  <hi>Your Servant in the Goſpel,</hi> John Cardell.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:117737:3"/>
+            <head>
+               <hi>Morbus Epidemicus:</hi> OR, THE DANGER OF Self-Seeking.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>PHIL. 2.21.</hi>
+                  </bibl>
+                  <p>For all ſeek their own, not the things which are Jeſus Chriſts.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">T</seg>He Apoſtle directs this Epiſtle <hi>to all the Saints that were at Philippi,</hi>
+               <note place="margin">Coherence.</note>
+               <note place="margin">Chap. 1. ver. 1.</note> as you may <hi>perceive</hi> from the firſt verſe of the firſt Chapter of it: And after his <hi>Saluta<g ref="char:EOLhyphen"/>tion</hi> of them (wherein he wiſhes them <hi>Grace and peace from God our Father,</hi>
+               <note place="margin">ver. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> 
+               <hi>and from the Lord Jeſus Chriſt)</hi> in the next place he gives ſolemn <hi>Thanks</hi> unto God, for their conſtant <hi>fel<g ref="char:EOLhyphen"/>lowſhip</hi> in the <hi>Goſpel:</hi> In the 3<hi rend="sup">d</hi>, 4<hi rend="sup">th</hi> and 5<hi rend="sup">th</hi> verſes,
+<note place="margin">ver. 3, 4, 5.</note> 
+               <hi>I thank my God,</hi> ſays he, <hi>upon every remembrance of you, always in every prayer of mine for you all, making requeſt with joy for your fellowſhip in the Go<g ref="char:EOLhyphen"/>ſpel,
+<pb n="2" facs="tcp:117737:4"/>from the firſt day until now.</hi> 
+               <label type="milestone">
+                  <seg type="milestoneunit">Note. </seg>
+               </label> It is certainly mat<g ref="char:EOLhyphen"/>ter of <hi>great joy</hi> and <hi>rejoycing</hi> (and that unto <hi>others,</hi> as well as unto <hi>themſelves</hi>) to ſee <hi>Believers</hi> conſtant and <hi>unwearied</hi> in the <hi>fellowſhip of the Goſpel:</hi> There are other <hi>fellowſhips</hi> that a man may ſoon be <hi>weary</hi> of, by <hi>reaſon</hi> of the <hi>many</hi> ſad <hi>Diſtempers</hi> and <hi>Diſtractions</hi> that are to be <hi>found</hi> in them; but the <hi>fellowſhip</hi> of the <hi>Goſpel</hi> (where it is rightly <hi>apprehended,</hi> and according<g ref="char:EOLhyphen"/>ly <hi>imbraced</hi>) that's ſo <hi>eaſie a yoke,</hi> and ſo well <hi>lined with love,</hi> that it can be <hi>offenſive</hi> to none, but ſuch whoſe <hi>ſhoulders</hi> are very <hi>ſore,</hi> and not able to <hi>bear</hi> any thing.
+<note place="margin">Three diſcove<g ref="char:EOLhyphen"/>ries of the A<g ref="char:EOLhyphen"/>poſtles tender care over the Saints at <hi>Phi<g ref="char:EOLhyphen"/>lippi,</hi> walking together in the fellowſhip of the Goſpel.</note>
+            </p>
+            <p>The <hi>ſight</hi> of this <hi>fellowſhip</hi> among the <hi>Saints at Philippi,</hi> made the Apoſtle very <hi>tender</hi> over them, and very <hi>reſpective</hi> towards them, as may <hi>appear</hi> by ſun<g ref="char:EOLhyphen"/>dry <hi>remarkable</hi> expreſſions in this <hi>Epiſtle</hi> of his unto them.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Diſcov. </seg>1</label> At the eigthth verſe of the firſt Chapter, <hi>God is my record</hi> (ſays he there)
+<note place="margin">at the 8 ver. of the 1 Chapter.</note>
+               <note n="(a)" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>Quantoperè ex<g ref="char:EOLhyphen"/>petam: Mihi vi<g ref="char:EOLhyphen"/>detur in gevere vehementiſſimu<g ref="char:cmbAbbrStroke">̄</g> in illos amorem ſuum Apoſtolus hoc verbo ſigni<g ref="char:EOLhyphen"/>ficare ex He<g ref="char:EOLhyphen"/>braeorum idio<g ref="char:EOLhyphen"/>tiſmo: ut autem ſignificet ex quo fonte promanet affectus iſte, &amp; quò etiam feratur, additam</hi> viſceribus <hi>nomen, magnum pondus addit ſeutentiae, ut intimus am<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>r ſignificetur: Solent enim Hebrai</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> rachamim <hi>id eſt</hi> viſcera, <hi>omnes teneros ac veluti ma<g ref="char:EOLhyphen"/>ternos affectus vocare.</hi> Bez. in loc.</note> 
+               <hi>how greatly I long after you all, in the bowels of Jeſus Chriſt;</hi> which are <hi>words</hi> that have a fulneſs of <hi>love</hi> in them, or a fulneſs of <hi>care</hi> and <hi>tenderneſs,</hi> that he ſhould <hi>long</hi> after them, and after them <hi>greatly,</hi> and <hi>greatly after them all,</hi> and <hi>after them all in the bowels of Jeſus Chriſt;</hi> and that he ſhould be ſo <hi>ſerious</hi> in it, as to call <hi>God</hi> himſelf to <hi>bear wit<g ref="char:EOLhyphen"/>neſs</hi> unto the <hi>truth</hi> of his <hi>heart</hi> herein, ſaying, <hi>God is my record, how greatly I long after you all, in the bowels of Jeſus Choiſt:</hi> This was a very <hi>full expreſsion</hi> of his good <hi>affection</hi> towards them.</p>
+            <pb n="3" facs="tcp:117737:4"/>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Diſcov. </seg>2</label> But <hi>beſides</hi> this, a little <hi>after</hi> in the ſame <hi>Chapter,</hi> he goes yet <hi>higher;</hi> and at the 24 ver.
+<note place="margin">ver. 24. of the 1 Chapter.</note> he <hi>tells</hi> us of a <hi>great ſtrait</hi> that he was in, and his <hi>ſtrait</hi> lay <hi>between</hi> theſe two <hi>things,</hi> He <hi>knew</hi> not well whether he ſhould <hi>deſire to be with Chriſt</hi> in heaven, fully and <hi>abſolutely;</hi> or to <hi>continue</hi> ſtill among the <hi>Philippians;</hi>
+               <note place="margin">
+                  <hi>Pauls</hi> ſtrait.</note> 
+               <hi>I am in a ſtrait between two,</hi> ſays he, <hi>having a deſire to depart, and to be with Chriſt, which is far better; nevertheleſs, to abide in the fleſh is more needful for you:</hi> Like ſome tender-hearted <hi>Mother,</hi>
+               <note place="margin">Simile.</note> that hath her <hi>Children</hi> about her in one <hi>Countrey,</hi> and her <hi>Husband</hi> inviting her to a <hi>place of very great honor with himſelf</hi> in another Coun<g ref="char:EOLhyphen"/>trey; ſhe is <hi>willing</hi> to go to her <hi>Husband,</hi> but loth to leave her <hi>Children:</hi> ſuch was the <hi>Apoſtles ſtrait</hi> here in this <hi>place;</hi> the <hi>Philippians loſs</hi> on the one ſide, and his <hi>own gain</hi> on the other ſide; their <hi>neceſsity</hi> on the one ſide, and his own <hi>felicity</hi> on the other ſide, did not a little <hi>ſtraiten</hi> him, and which of <hi>theſe</hi> two he ſhould <hi>chuſe,</hi> he could not <hi>eaſily determine:</hi> which was an<g ref="char:EOLhyphen"/>other <hi>rare</hi> unheard of <hi>demonſtration</hi> of his love and good <hi>affection</hi> towards them,
+<label type="milestone">
+                  <seg type="milestoneunit">Note. </seg>
+               </label> in that he was <hi>ſo far</hi> from being <hi>inticed</hi> to leave them, by any <hi>ſmall part</hi> of this <hi>Worlds glory,</hi> that the <hi>glory of heaven it ſelf</hi> could not <hi>eaſily gain,</hi> or take him away from them.</p>
+            <p>But <hi>farther yet,</hi> and in the third <hi>place,</hi> another <hi>Diſ<g ref="char:EOLhyphen"/>covery</hi> of the Apoſtles <hi>great love</hi> unto theſe <hi>Philip<g ref="char:EOLhyphen"/>pians (united and walking together in the fellowſhip of the Goſpel)</hi> is here in this <hi>Chapter,</hi> about the <hi>words</hi> now read unto you, and it was this, That now,
+<note place="margin">
+                  <hi>Vid. Zanch. in cap.</hi> 1. <hi>hujus Ep.</hi>
+               </note> 
+               <hi>when</hi> he <hi>could</hi> not <hi>come</hi> to them <hi>himſelf</hi> (being a Priſoner at <hi>Rome</hi> under <hi>Nero</hi>) he was very <hi>careful</hi> to viſit them by <hi>another,</hi>
+               <label type="milestone">
+                  <seg type="milestoneunit">Diſcov. </seg>3</label> that might very <hi>ſufficiently</hi> ſupply his <hi>place</hi> in his abſence: <hi>ver.</hi> 19. of this Chapter,
+<note place="margin">ver. 19. of the 2 Chapter.</note> 
+               <hi>I truſt in the
+<pb n="4" facs="tcp:117737:5"/>Lord Jeſus</hi> (ſays the Apoſtle there) <hi>to ſend Timotheus ſhortly unto you, that I may be of good comfort, when I know your ſtate by him.</hi> And that his great <hi>care</hi> and <hi>love</hi> might ſo <hi>much</hi> the more <hi>appear,</hi> in the <hi>ſending</hi> of this <hi>Meſſenger,</hi> he tells them in the <hi>following</hi> verſes, what a one he was <hi>(An extraordinary Meſſenger)</hi> and not onely one, of whoſe <hi>fidelity</hi> they had formerly had <hi>experience</hi> (at the 22 ver. <hi>Ye know the proof of him, that as a ſon with the father, he hath ſerved with me in the Goſpel</hi>) not onely ſo, but <hi>moreover</hi> and beſides this, he <hi>tells them</hi> at the 20 ver. that he was ſo <hi>choyce</hi> and <hi>rare</hi> a man, that he for his part <hi>knew</hi> no man like him;
+<note n="(b)" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>Ne<g ref="char:EOLhyphen"/>minem habeo aequè animatum ad res veſtras curan<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>as: Pe<g ref="char:EOLhyphen"/>tius onim cum allis Timotheum Paulus compa<g ref="char:EOLhyphen"/>rat quam ſecum, &amp; quidem eo couſilio ſingulare et clogium tri<g ref="char:EOLhyphen"/>buit, ut propter raritatem majo<g ref="char:EOLhyphen"/>re fit in pretio.</hi> Calv. in loc. Text divided into 3 parts.</note> 
+               <hi>I have no man like minded by me</hi> (in the verſe before the Text, that's his language) to whom I can ſo <hi>ſafely</hi> com<g ref="char:EOLhyphen"/>mend you, or that will ſo <hi>naturally care for your eſtate,</hi> as this man will; for, ſays he, this is the <hi>preſent</hi> frame and <hi>temper</hi> of mens ſpirits, <hi>All ſeek their own, not the things which are Jeſus Chriſts.</hi>
+            </p>
+            <p>In which <hi>words</hi> you have three things <hi>notable:</hi>
+               <list>
+                  <item>Firſt,
+<milestone type="tcpmilestone" unit="unspecified" n="1"/> here is a great <hi>Iniquity complained</hi> of, and that is, <hi>Mens ſeeking their own things.</hi>
+                  </item>
+                  <item>Secondly,
+<milestone type="tcpmilestone" unit="unspecified" n="2"/> the <hi>generality</hi> of this <hi>Iniquity, All ſeek their own.</hi>
+                  </item>
+                  <item>Thirdly,
+<milestone type="tcpmilestone" unit="unspecified" n="3"/> the <hi>maner</hi> how this is <hi>done,</hi> how men do <hi>ſeek</hi> their own things <hi>inordinately,</hi> they always <hi>do it</hi> with a <hi>neglect</hi> (at leaſt) of better things, <hi>All ſeek their own, and not the things which are Jeſus Chriſts.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>Now <hi>foraſmuch</hi> as the holy Apoſtle takes <hi>notice</hi> of it here,
+<note place="margin">The riſe of the Doctrine.</note> and puts a <hi>mark</hi> upon it, for a <hi>dangerous Epi<g ref="char:EOLhyphen"/>demical Diſeaſe,</hi> that <hi>All ſought their own, and not the things of Chriſt;</hi> That I may <hi>endeavor</hi> fully to <hi>open</hi> the nature of this <hi>Diſeaſe,</hi> and ſhew you the <hi>bottom</hi> of
+<pb n="5" facs="tcp:117737:5"/>it, Let this be the <hi>foundation</hi> or <hi>Ground-work</hi> of that which follows:
+<q>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Doctrine. </seg>
+                  </label> 
+                  <hi>That it is a very dangerous Diſtemper, either in a perſon, or in a People, to be inordinately ſtudious, or inquiſitive, about that which is their own.</hi>
+               </q>
+            </p>
+            <p>In the <hi>proſecution</hi> of this <hi>Obſervation,</hi>
+               <note place="margin">Three things enquired for the explication of the Doctrine</note> and for the better underſtanding of it, wee'll <hi>enquire</hi> three things:</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> Firſt, what's <hi>meant</hi> here by <hi>that which is our own?</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> Secondly, what by <hi>ſeeking that which is our own?</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> Thirdly, how great an evil this muſt needs be, to be <hi>inordinately ſtudious, or inquiſitive, about that which is our own?</hi>
+            </p>
+            <p>For the <hi>former,</hi>
+               <label type="milestone">
+                  <seg type="milestoneunit">Queſt. </seg>1</label> what's meant here by <hi>that which is our own?</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſ. </seg>1</label> In <hi>Anſwer</hi> to that, you may <hi>pleaſe</hi> to obſerve, That there is nothing ſo <hi>ſtrictly,</hi> or <hi>formally,</hi> or <hi>directly</hi> ſaid to be our own, as <hi>Sin</hi> and <hi>Corruption,</hi>
+               <note place="margin">Nothing ſo much our own as ſin.</note> together with that <hi>Shame and confuſion of face,</hi> which follows as the juſt <hi>reward</hi> or <hi>fruit</hi> of ſin: and therefore ſays <hi>Da<g ref="char:EOLhyphen"/>niel,</hi> in that humble <hi>acknowledgement</hi> or confeſſion of his, <hi>Dan.</hi> 9.8. <hi>O Lord, to us belongeth confuſion of face, to our Kings, to our Princes, and to our fathers, be<g ref="char:EOLhyphen"/>cauſe we have ſinned againſt thee:</hi> Confuſion of face belongs to us, we have a juſt <hi>Right</hi> and <hi>Title</hi> to it, it is <hi>our own;</hi> as Chriſt ſays of him that is the <hi>Father of Lyes,</hi> that when <hi>he ſpeaketh a lye, he ſpeaketh of his own,</hi> John 8.44. or as 'tis ſaid of <hi>Judas,</hi> that when he dyed, he went <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, to <hi>his own place,</hi> Acts 1.25. So
+<note n="(c)" place="margin">All that is good in us, that's Gods, &amp; all that is evil, that's Satans firſt, and by his means <hi>our own. Cum ergo Deus <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>a ſit per fectè bonus, ut <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>us omn<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>a exc<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>llenti quodam modo bona ſint, quaeſi<g ref="char:EOLhyphen"/>tum olim eſt &amp; graviſſime di<g ref="char:EOLhyphen"/>ſputatum, unde illud milum na<g ref="char:EOLhyphen"/>tum ſit, quod tam latè m<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>averat, &amp; quaenam huyus mali cauſe extiterit. Hoc malum nos à Di<g ref="char:EOLhyphen"/>abolo invectum eſſe dicimus, qui eiſi erat bonus à Domino factus initio, tamen liberá voluntate à Domino defecit, &amp; pecca<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>tt, &amp; homini, ut peccaret, perſuaſit, author<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> fuit: Hine quicquid eſt peceiti vel in damonibus, vel in hominibus totum flaxit.</hi> Whitaker. Reſponſ. ad Rat. 8. Campian. Tom. 1. eper. p<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>g 33.</note> whatever is <hi>good</hi> in us, that's <hi>Gods,</hi> and whatever is <hi>evil,</hi> that's <hi>our own.</hi> Look how far forth our <hi>thoughts,</hi> or our <hi>words,</hi> or our <hi>ways,</hi> are <hi>evil</hi> and <hi>ſinful,</hi> ſo far
+<pb n="6" facs="tcp:117737:6"/>forth are they ſaid to be our <hi>own thoughts,</hi> and our <hi>own words,</hi> and our <hi>own ways</hi> in Scripture: <hi>If thou turn away thy foot from the Sabbath from doing thy pleaſure on my holy day, and ſhalt call the Sabbath a de<g ref="char:EOLhyphen"/>light,</hi> &amp;c. <hi>not finding thine own pleaſure, nor ſpeaking thine own words,</hi> Iſa. 58.13. <hi>The backſlider in heart ſhall be filled with his own ways,</hi> Prov. 14.14. <hi>Thine own wickedneſs ſhall correct thee, and thy backſliding ſhall reprove thee,</hi> Jer. 2.19.</p>
+            <p>But more <hi>particularly</hi> and properly,
+<milestone type="tcpmilestone" unit="unspecified" n="2"/> that's here in this <hi>place</hi> ſaid to be <hi>a mans own,</hi>
+               <note place="margin">That a mans own here, wherein he himſelf hath a civil Intereſt, and that either does or may ſtand in com<g ref="char:EOLhyphen"/>petition with the things of Ieſus Chriſt.</note> wherein he <hi>himſelf</hi> hath a <hi>civil propriety,</hi> or a <hi>civil intereſt,</hi> and that <hi>either</hi> does, or may at any time <hi>ſtand</hi> in <hi>competition</hi> with the <hi>things of Jeſus Chriſt;</hi> and thus a <hi>mans Life</hi> is his own, and a <hi>mans Liberty</hi> his own, and a <hi>mans Eſtate</hi> his own, and a <hi>mans Good Name</hi> his own, and a <hi>mans Fa<g ref="char:EOLhyphen"/>mily</hi> his own, together with all thoſe ſeveral <hi>appur<g ref="char:EOLhyphen"/>tenances</hi> that may <hi>ſerve</hi> to <hi>render</hi> any of theſe either <hi>comfortable</hi> or <hi>conſpicuous:</hi> Theſe <hi>things</hi> I calls a <hi>mans own,</hi> his <hi>Life,</hi> his <hi>Liberty,</hi> his <hi>Eſtate,</hi> his <hi>Good Name,</hi> his <hi>Family,</hi> not becauſe of any <hi>abſolute</hi> irreſpective <hi>intereſt</hi> that a man <hi>hath</hi> in any of theſe <hi>things,</hi> for ſo <hi>God alone</hi> is the <hi>great</hi> and abſolute <hi>Proprietary,</hi> he is the <hi>mighty God,</hi> the ſupreme <hi>Landlord</hi> of all the <hi>whole World,</hi> and we are all but his
+<note n="(d)" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>noſtra<g ref="char:EOLhyphen"/>rum facultatum non ſumus nos Domini ſed ad<g ref="char:EOLhyphen"/>miniſtratores at<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> curatores.</hi> Theophylact. &amp; Camerar. in Luc. 16.1, 1.</note> 
+               <hi>Stewards</hi> or <hi>Tenants</hi> at will, and he may ſay to any of us, when he pleaſes, <hi>Give account of thy ſtewardſhip, for thou mayeſt be no longer ſteward.</hi>
+            </p>
+            <pb n="7" facs="tcp:117737:6"/>
+            <p> But yet I ſay, People have a <hi>civil intereſt,</hi> or a <hi>civil propriety</hi> in all thoſe <hi>things</hi> already <hi>mentioned,</hi> from that <hi>God</hi> who hath given the Earth to the children of men; for ſo the Pſalmiſt tells us, <hi>Pſal.</hi> 115.16.
+<note n="(e)" place="margin">
+                  <hi>Admonentur ex hoc verſu, Poteſtates, &amp; Judices terrae, &amp; quotquot terram incolunt, ut agnoſcant Regem ſuum in caelis, à quo ac<g ref="char:EOLhyphen"/>ceperunt, quic<g ref="char:EOLhyphen"/>quid in hac ter<g ref="char:EOLhyphen"/>râ poſſide<g ref="char:cmbAbbrStroke">̄</g>t, ſint<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> illius verbo obc<g ref="char:EOLhyphen"/>dicutes &amp; ſub<g ref="char:EOLhyphen"/>jecti: Nam is eſt, qui regna mutat, potentes ſed thus deponit, &amp; regiones fer<g ref="char:EOLhyphen"/>tiles mutat in ſteriles.</hi> Muſc. in loc. vid. Plu<g ref="char:EOLhyphen"/>ra ibid. obſerv. valdè digna.</note> 
+               <hi>The Heaven, even the Heavens are the Lords, but the Earth hath he given to the children of men:</hi> He gives men their <hi>Lives,</hi> and their <hi>Liberties,</hi> and their <hi>Eſtates,</hi> and their <hi>Good Names,</hi> and <hi>Families;</hi> and as for ſuch as walk <hi>honeſtly,</hi> and unblameably (and that do not make a <hi>forfeiture</hi> of them, by any ſinful unworthy <hi>miſ<g ref="char:EOLhyphen"/>carriage</hi>) theſe things ought to be <hi>preſerved,</hi> and kept <hi>inviolably</hi> unto ſuch; and if <hi>any</hi> one ſhall go <hi>about</hi> to <hi>wrong</hi> or <hi>prejudice</hi> his <hi>Neighbor,</hi> either in his <hi>Life,</hi> or in his <hi>Liberty,</hi> or in his <hi>Eſtate,</hi> or in his <hi>Good Name,</hi> or <hi>Family,</hi> the party <hi>wronged,</hi> may and ought to <hi>plead Exemption,</hi> from the preſent <hi>Oppreſsion:</hi> And they that have <hi>Power</hi> and <hi>Authority</hi> in their hands, have it <hi>purpoſely given them,</hi> to <hi>vindicate</hi> all ſuch; and if they do it not,
+<note n="(d)" place="margin">
+                  <hi>Meminerit Magiſtratus ſi<g ref="char:EOLhyphen"/>bi gladtum da<g ref="char:EOLhyphen"/>tum eſſe à Deo, non ut illum geſt<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t fruſtrà: ſed ut eo utatur ad vindictam ſceleratorum, ac defenſionem bonorum.</hi> Piſcator. in Rom. 13.4. <hi>Magiſtratus vice Dei ſungitur, cum in Praemiis dandis obedientibus, tùm in Paenis inſtigendis contumacibus.</hi> Nicol. Heming ibid. <hi>Inductus eſt ita<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> Magiſtratus, ut leges quàm diligentiſſimè conſer<g ref="char:EOLhyphen"/>ventur, ſontes puntantur, &amp; boni juventur ac ſoveantur: Et ſanè lexeſt mutus Magiſtratus, &amp; victſsim Magiſtratus lex animata &amp; loquens.</hi> Pet. Martyr. in cap. 19. lib. Iud.</note> 
+               <hi>They bear the Sword in vain,</hi> and are not ſo <hi>juſt</hi> and <hi>faithful</hi> in their <hi>places,</hi> as they <hi>ſhould</hi> and <hi>ought</hi> to be. And ſo much for <hi>Anſwer</hi> to the firſt <hi>Queſtion,</hi> what's meant here by that which is <hi>our own?</hi>
+            </p>
+            <p>In the next place we are to enquire,
+<label type="milestone">
+                  <seg type="milestoneunit">Queſt. </seg>2</label> 
+               <hi>What's meant here by ſeeking that which is our own? All ſeek their own,</hi> ſays the Apoſtle; and what <hi>hurt</hi> is there in <hi>that?</hi> Is it not <hi>lawful enough</hi> for a man to <hi>ſeek,</hi> and <hi>look</hi> after that which is his own? May we not without any <hi>danger,</hi> ſeek to <hi>maintain,</hi> ſeek to <hi>preſerve,</hi> yea
+<pb n="8" facs="tcp:117737:7"/>ſeek to <hi>increaſe</hi> that which is <hi>our own?</hi> Does not the <hi>Apoſtle</hi> himſelf elſwhere ſay, that <hi>If any provide not for his own, eſpecially for thoſe of his own houſe,</hi> that <hi>he hath denied the faith, and is worſe then an Infidel?</hi> 1 Ep. to Tim. chap. 5. ver. 8.</p>
+            <p>For Anſwer to this,
+<label type="milestone">
+                  <seg type="milestoneunit">Anſ. </seg>
+               </label> we are to know, That there is doubtleſs
+<note n="(f)" place="margin">
+                  <hi>Quaerenda ſunt quae Chriſti, ſed interim ne<g ref="char:EOLhyphen"/>gligenda non ſunt quae ſunt noſtra, &amp; quae c<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rare à Deo jubemur.</hi> Zinc. in Text. Our <hi>own things</hi> inordinately ſought two maner of ways</note> a <hi>lawful ſeeking of that which is our own,</hi> which the Apoſtle <hi>condemns not</hi> here; but the <hi>dan<g ref="char:EOLhyphen"/>gerous evil</hi> complained of, or <hi>ſpoken againſt</hi> here in this place, it is a <hi>ſinful inordinate ſeeking of that which is our own;</hi> and this is done two maner of ways:</p>
+            <p>Either when a man <hi>ſeeks his own,</hi> with <hi>prejudice</hi> to another mans <hi>private intereſt;</hi>
+            </p>
+            <p>Or elſe when he does it with <hi>prejudice</hi> to the <hi>publique intereſt</hi> of that <hi>Nation</hi> or <hi>Commonwealth</hi> wherein he lives: Whoſoever <hi>fails</hi> in either of theſe <hi>particulars,</hi> he ſins <hi>dangerouſly</hi> in the purſuit of that <hi>which is his own.</hi>
+            </p>
+            <p>Firſt,
+<milestone type="tcpmilestone" unit="unspecified" n="1"/> when a man ſeeks his own, to the manifeſt, neceſſary,
+<note place="margin">When a man ſeeks his own with prejudice to another mans private intereſt, which is done three ways.</note> or apparent prejudice of his Neighbors pri<g ref="char:EOLhyphen"/>vate intereſt, now <hi>he walks inordinately;</hi> and this is done <hi>principally</hi> or <hi>eſpecially</hi> three ways:
+<list>
+                  <item>1. Either when a man <hi>ſeeks</hi> his own, with <hi>detriment</hi> to his Neighbor.</item>
+                  <item>2. Or when he <hi>ſeeks</hi> his own, with <hi>diſparagement</hi> to his Neighbor.</item>
+                  <item>3. Or when he <hi>ſeeks</hi> his own, with <hi>diſcouragement</hi> to his Neighbor.</item>
+               </list>
+            </p>
+            <p>Now he is not ſo <hi>careful</hi> as he <hi>ſhould</hi> be, to <hi>avoid offences</hi> in the ſeeking of his own.
+<note place="margin">1. When a man ſeeks his own, with detriment to his Neigh<g ref="char:EOLhyphen"/>bor.</note>
+            </p>
+            <p>Firſt, when a man <hi>ſeeks</hi> his own, to the <hi>detriment,</hi> or <hi>hurt,</hi> or <hi>injury</hi> of another; now <hi>he walks inordinately,</hi> and not <hi>according</hi> to <hi>Rule,</hi> or <hi>according</hi> to the <hi>minde</hi> of <hi>God.</hi>
+            </p>
+            <pb n="9" facs="tcp:117737:7"/>
+            <p> 
+               <hi>Chriſtians</hi> eſpecially ſhould be <hi>innocent,</hi> as well as <hi>wiſe; holy</hi> within, and <hi>harmleſs</hi> without; their <hi>Con<g ref="char:EOLhyphen"/>ſciences</hi> ſhould be <hi>void of offence</hi> towards men, as well as towards God: which was <hi>Pauls</hi> daily <hi>exerciſe,</hi> and the <hi>ſame</hi> that ſhould be <hi>ours; Herein,</hi> ſays he, <hi>do I exerciſe my ſelf,</hi>
+               <note place="margin">Acts 24.16. Rom. 2.24. 1 Tim. 6.1.</note> 
+               <hi>to have always a conſcience void of offence, towards God and towards men,</hi> Acts 24.16. For, as on the <hi>one ſide,</hi> nothing does more
+<note n="(g)" place="margin">Ubi ſublimi. or eſt praerogati<g ref="char:EOLhyphen"/>va, major eſt cul<g ref="char:EOLhyphen"/>pa, &amp; ideò hoc ipſo Chriſtiani deteriores ſunt, quia melioreseſſe deberent: Non enim probant quod fatentur, &amp; impugnant Profeſſionem ſuam moribus ſuis: Magis enim damnabilis eſt malitia, quam titulus Bonita<g ref="char:EOLhyphen"/>tis accuſat, &amp; reatus impii eſt pium nomen: Cùm<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> ipſe Sal<g ref="char:EOLhyphen"/>vator noſter ad nos quotidiè clamet,</note> 
+               <hi>aggravate</hi> ſin, or ſooner cauſe the <hi>Name of God to be blaſphemed,</hi> then the <hi>lewd</hi> lives, and <hi>vicious</hi> practices of <hi>thoſe</hi> that <hi>profeſs</hi> the <hi>Truth,</hi> who ſay they are <hi>Chriſtians,</hi> and are not, <hi>but of the Synagogue of Satan:</hi> ſo on the <hi>other ſide,</hi> nothing does more <hi>adorn or beautifie the Doctrine of God our Savior in all things,</hi> or render it more <hi>ſa<g ref="char:EOLhyphen"/>voury</hi> and acceptable among men, then when it is <hi>at<g ref="char:EOLhyphen"/>tended</hi> with an <hi>innocent, harmleſs, unblameable</hi> Con<g ref="char:EOLhyphen"/>verſation: And therefore ſays <hi>Chriſt</hi> unto his Diſci<g ref="char:EOLhyphen"/>ples, <hi>Be wiſe as Serpents,</hi> and withal, <hi>innocent as Doves,</hi> Matth. 10.16. And ſays he moreover,
+<note n="(h)" place="margin">
+                  <hi>Sic luceat lux veſtra coram homiuibus, ut videant filii hominum opera veſtra bona, &amp; MAGNIFICENT Patr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>m veſtrum qui eſt in caelis: Nos ita vivimus è contrario, ut ſilii hominum videant opera noſtra mala, &amp; BLASPHEMENT Patrem noſtrum qui eſt in caelis: Praeter enim pauciſſimos quoſdam qui mala fugiunt, quid eſt aliud penè omnis caetus Chriſtianorum quàm ſentina vitiorum?</hi> Salvian. de Gubern. Dei lib. 4.</note> 
+               <hi>Let you light ſo ſhine before men, that they may ſee your good works, and glorifie your Father which is in heaven,</hi> Matth. 5.16.</p>
+            <p n="2">2. When a man <hi>ſeeks his own,</hi>
+               <note place="margin">2. When a man ſeeks his own, with diſparage<g ref="char:EOLhyphen"/>ment to his neighbor.</note> to the <hi>diſparagement</hi> of another; now he <hi>walks inordinately:</hi> He that loves his <hi>Neighbor</hi> as himſelf, will be as careful not to <hi>de<g ref="char:EOLhyphen"/>fame</hi> others, as he would have others careful not to <hi>de<g ref="char:EOLhyphen"/>fame him;</hi> he will be as <hi>tender</hi> of anothers <hi>Good Name,</hi> as he would have another <hi>tender</hi> of his <hi>Good
+<pb n="10" facs="tcp:117737:8"/>Name;</hi> he will be <hi>afraid</hi> to <hi>walk with ſlanders</hi> towards others, leſt others be <hi>left,</hi> and
+<note n="(i)" place="margin">
+                  <hi>Quicuriosè trqui<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>unt in aliena facta, ea<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> reprehendu<g ref="char:cmbAbbrStroke">̄</g>t tenerè, &amp; odio quodam preximi ut racliores ſar<g ref="char:EOLhyphen"/>ctiorcſ<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> oidean<g ref="char:EOLhyphen"/>tur: tlli viciſ<g ref="char:EOLhyphen"/>ſim judicia alio<g ref="char:EOLhyphen"/>rum, &amp; impri<g ref="char:EOLhyphen"/>mis judicium Dei non effugi<g ref="char:EOLhyphen"/>unt.</hi> Polan. Syntag. Theol. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>b. to cap. 41.</note> 
+               <hi>providentially</hi> order<g ref="char:EOLhyphen"/>ed to <hi>walk with ſlanders</hi> towards him. It is reported of
+<note n="(k)" place="margin">
+                  <hi>In ipſá menſâ magis le<g ref="char:EOLhyphen"/>ctionem vel diſputationen, quam Epulationem potationem<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> diligebat, &amp; contra peſtilentiam humanae conſuetudinis in ea ita ſcriptum habebat. Quiſquis amat dictis abſentum rodere famam, Hanc menſam indignam noverit eſſe ſibi.</hi> Poſſid. de vit. Aug. cap. 22.</note> 
+               <hi>Auſtin,</hi> by him that <hi>Writes</hi> his <hi>Life,</hi> That he would not <hi>endure</hi> any at his <hi>Table,</hi> that ſhould <hi>ſhew</hi> any <hi>malice</hi> againſt others by <hi>Backbitings</hi> or <hi>Detra<g ref="char:EOLhyphen"/>ctions;</hi> and to that <hi>purpoſe</hi> he had two <hi>Verſes</hi> written over his <hi>Table,</hi> to admoniſh <hi>thoſe</hi> that <hi>ſate</hi> with him, that in ſuch <hi>caſes</hi> that <hi>Table</hi> was not for them: If the ſame <hi>courſe</hi> were <hi>generally</hi> taken, to admit of no ſuch <hi>talk,</hi> either at our <hi>tables, houſes</hi> or <hi>ſhops,</hi> there would <hi>cer<g ref="char:EOLhyphen"/>tainly</hi> be more
+<note n="(l)" place="margin">Prov. 26.20.</note> 
+               <hi>peace,</hi> and <hi>quietneſs,</hi> and <hi>love</hi> amongſt us, then now is to be found.</p>
+            <p n="3">3. When a man <hi>ſeeks his own,</hi>
+               <note place="margin">3. When a man ſeeks his own, with diſcou<g ref="char:EOLhyphen"/>ragement to his neighbor.</note> with <hi>diſcouragement</hi> to another, now he <hi>walks inordinately,</hi> and not with a <hi>right foot to the Goſpel,</hi> or ſo as he <hi>ought to walk: Chriſtians</hi> in this, ſhould be as <hi>Chriſt</hi> himſelf was; and it is even <hi>admirable</hi> to conſider, how <hi>careful</hi> he hath al<g ref="char:EOLhyphen"/>ways been to <hi>cheriſh</hi> ſmall <hi>beginnings,</hi> and to <hi>encou<g ref="char:EOLhyphen"/>rage</hi> yong <hi>beginners,</hi> to <hi>lift up the hands that were ready to hang down,</hi>
+               <note place="margin">Heb. 12.12. Iſa 40.11.</note> 
+               <hi>and to ſtrengthen the feeble knees;</hi> Iſa. 40.11.
+<note n="(m)" place="margin">
+                  <hi>Manſuetu<g ref="char:EOLhyphen"/>dinem &amp; miſe<g ref="char:EOLhyphen"/>ricordiam Chri<g ref="char:EOLhyphen"/>ſti deſcribit,</hi> Varab. in loc. Matth. 12.</note> 
+               <hi>He ſhall feed his flock like a ſhepherd, he ſhall gather the lambs with his arm, and carry them in his boſom, and gently lead thoſe that are with yong: A bruiſed reed ſhall he not break, nor quench ſmoaking flax, until he ſend forth judgement unto victory:</hi> And as
+<note n="(n)" place="margin">
+                  <hi>Boni ſcili<g ref="char:EOLhyphen"/>cet Domini bonus famulus, &amp; ſin<g ref="char:EOLhyphen"/>gularis magiſtri praeclarus imita<g ref="char:EOLhyphen"/>tor: qui in ve<g ref="char:EOLhyphen"/>ſtigiis Domini ſui ambulans, patentiora quodammodo &amp; expreſſiora pedibus ſuis fecit Domini ſui eſſe veſtigia.</hi> Salvian. de Gubern. Dei lib. 3.</note> He is thus <hi>tender</hi> himſelf, ſo he would <hi>have</hi> us alſo to be in our <hi>ways</hi> and <hi>walkings,</hi> and not to
+<pb n="11" facs="tcp:117737:8"/>
+               <note n="(o)" place="margin">Zech 4.10.</note> 
+               <hi>deſpiſe the day of ſmall things;</hi> but ſtill to drive on <hi>Jacobs</hi> pace, and ſo, as that we <hi>leave</hi> not the
+<note n="(p)" place="margin">Gen. 33.13, 14. See the Concluſion of Mr. <hi>Pembles</hi> Preface to his <hi>Vindic. Grat.</hi>
+               </note> 
+               <hi>Ewes</hi> with yong, or the <hi>tender lambs</hi> behinde.</p>
+            <p>The <hi>ſum</hi> of all is this <hi>therefore,</hi>
+               <note place="margin">How far forth a man may ſeek his own, with<g ref="char:EOLhyphen"/>out any preju<g ref="char:EOLhyphen"/>dice to the pri<g ref="char:EOLhyphen"/>vate intereſt of others.</note> A man may <hi>lawfully</hi> ſeek his own in a more <hi>private</hi> way of acting (for we are not yet <hi>come</hi> to the <hi>publique</hi>) Provided, That this be not done either to the <hi>oppreſsing</hi> of others, or to the <hi>diſparaging</hi> of others, or unto the <hi>diſcouraging</hi> or <hi>diſheartning</hi> of others, in any lawful way.</p>
+            <p>But then withal, this <hi>Caution</hi> muſt here be <hi>entred,</hi> before we <hi>leave</hi> this,
+<note place="margin">Caution.</note> That if a man be <hi>ſeeking his own lawfully,</hi> or doing his <hi>Maſters will faithfully and ſin<g ref="char:EOLhyphen"/>cerely,</hi> in a way that is <hi>commanded,</hi> and that is of <hi>Di<g ref="char:EOLhyphen"/>vine Appointment;</hi> If in ſuch a caſe, ſome men do <hi>ſuffer,</hi> by being either <hi>injured</hi> in their <hi>Eſtates,</hi> or <hi>de<g ref="char:EOLhyphen"/>famed</hi> in their <hi>Credits,</hi> or <hi>diſheartned</hi> in their <hi>proceed<g ref="char:EOLhyphen"/>ings,</hi> A mans <hi>ſeeking</hi> his own <hi>lawfully,</hi> or doing his Maſters work <hi>faithfully,</hi> is no more to be <hi>blamed</hi> for this, then the <hi>ſhining of the Sun</hi> is to be <hi>blamed</hi> for <hi>hurting ſore eyes,</hi> or for <hi>extracting</hi> noiſom <hi>ſavours</hi> out of a filthy dunghil.</p>
+            <p>And <hi>therefore,</hi> if ye walk <hi>honeſtly,</hi> and <hi>unblameably,</hi> every one in his <hi>place,</hi> and do not
+<note n="(q)" place="margin">
+                  <hi>Peccatum recipit ſpeciem ex intentione Peccantis.</hi> Aquin. 1.2. qu. 72.</note> 
+               <hi>intentionally</hi> ſeek to <hi>injure</hi> others, or to <hi>defame</hi> others, or to <hi>diſhearten</hi> others, by <hi>ſeeking your own;</hi> if any ſuch thing fall out <hi>caſually, contingently,</hi> or <hi>unavoidably</hi> from your <hi>lawful</hi> actings, in <hi>ſuch a caſe,</hi> they that finde <hi>themſelves agrie<g ref="char:EOLhyphen"/>ved,</hi> muſt be content to <hi>bear their own burthens,</hi> and ſtudy to make a <hi>good uſe</hi> of what they <hi>ſuffer,</hi> and
+<pb n="12" facs="tcp:117737:9"/>not <hi>blame</hi> others for doing that <hi>which was their duty to do.</hi>
+            </p>
+            <p>But ſecondly,
+<note place="margin">2. Men ſeek their own in<g ref="char:EOLhyphen"/>ordinately, when they do it to the preju<g ref="char:EOLhyphen"/>dice of the pub<g ref="char:EOLunhyphen"/>lique intereſt.</note> Men <hi>ſeek their own inordinately</hi> (as I told you before) not onely when <hi>they do it,</hi> to the <hi>pre<g ref="char:EOLhyphen"/>judice</hi> of any <hi>private intereſt,</hi> but <hi>eſpecially</hi> when <hi>they do it</hi> to the <hi>prejudice</hi> of the
+<note n="(r)" place="margin">
+                  <hi>In bonis temporalibus tenetur quiſ<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> perſonam publicam vel communitatem ſibimetipſi praferre. Benum cuim to<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>us pluris faciendum eſt, quam bonum un<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>us alicujus partis: Perſonis autem public is an<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>umerandi ſunt<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>il<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>i, quos conſta<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> valde utiles eſſe Re<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>-publica</hi> Ameſ. de Conſcient. l. 5. c 7.</note> 
+               <hi>publique-Intereſt</hi> of that <hi>Nation,</hi> or <hi>Commonwealth</hi> wherein they live.</p>
+            <p>Now this <hi>publique-Intereſt</hi> (that I tell you of,
+<note place="margin">The publique-Intereſt two<g ref="char:EOLhyphen"/>fold Civil and Sacred.</note> and that is indeed chiefly <hi>conſiderable</hi> in this buſineſs) it is either <hi>Civil</hi> or <hi>Sacred;</hi> it is either that <hi>Civil publique-Intereſt</hi> that <hi>men</hi> have as <hi>men,</hi> or elſe it is that <hi>Sacred publique-Intereſt</hi> that <hi>Jeſus Chriſt</hi> himſelf hath in each <hi>particular Nation.</hi>
+               <note place="margin">The publique-Intereſt of men.</note>
+            </p>
+            <p>The <hi>Civil publique-Intereſt</hi> of men, or of <hi>Inhabi<g ref="char:EOLhyphen"/>tants</hi> in each particular <hi>Nation,</hi> it lies in thoſe <hi>Laws, Conſtitutions</hi> or <hi>Orders,</hi> that are either <hi>made,</hi> or to be <hi>made, Enacted,</hi> or to be <hi>Enacted, in ordine ad ſalutem Populi,</hi> in order to the <hi>common ſafety,</hi> or
+<note n="(s)" place="margin">
+                  <hi>Cum lex ſit regula humano<g ref="char:EOLhyphen"/>rum actuum quorum ultimus finis eſt beatitu<g ref="char:EOLhyphen"/>do, &amp; quidem communis: ne<g ref="char:EOLhyphen"/>ceſſe eſt eum ad bonum commun<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e ſemper ordinari.</hi> Aquin 1. 2 qu. 90. Art. 2.</note> 
+               <hi>publique welfare</hi> of the <hi>whole Body</hi> of the People; which <hi>Laws</hi> or <hi>Conſtitutions</hi> are to be ſo <hi>plainly</hi> publiſhed or <hi>made known,</hi> and withal, ſo <hi>equally and indifferently</hi> admini<g ref="char:EOLhyphen"/>ſtred, that they may <hi>from time to time</hi> be <hi>a terror</hi> to thoſe that <hi>do evil,</hi> and a <hi>protection</hi> to thoſe that <hi>do well;</hi> and not like <hi>Cobwebs,</hi> to catch <hi>little flyes,</hi> and let the <hi>great ones</hi> break through; or like <hi>ſnares,</hi> to vex the poor <hi>innocent Doves,</hi> and let the <hi>cunning</hi>
+               <note n="(t)" place="margin">
+                  <hi>Dat veniam corvis, vexat cenſura colum<g ref="char:EOLhyphen"/>bas.</hi> Iuve. Sat. 2.</note> 
+               <hi>Rooks</hi> alone.</p>
+            <p>Then the <hi>Sacred publique-Intereſt</hi> that <hi>Jeſus Chriſt</hi> hath,
+<note place="margin">The publique-intereſt of Chriſt</note> is to
+<note n="(u)" place="margin">Acts 2.39.</note> call as <hi>many as he pleaſes,</hi> or <hi>as many as</hi>
+               <note n="(w)" place="margin">13.48.</note> 
+               <hi>were ordained unto eternal life,</hi> out of every
+<pb n="13" facs="tcp:117737:9"/>
+               <note n="x" place="margin">Rev. 5.9.</note> 
+               <hi>kindred,</hi> and <hi>nation,</hi> and <hi>tongue,</hi> and <hi>people,</hi> making them
+<note n="(y)" place="margin">Pſa. 110.3.</note> 
+               <hi>willing in the day of his power,</hi> to
+<note n="(z)" place="margin">Mat. 11.29</note> take his <hi>yoke upon them,</hi> and to <hi>accept</hi> of his
+<note n="(a)" place="margin">Iſa. 9.6.</note> 
+               <hi>Government,</hi> and
+<note n="(b)" place="margin">Pſ 105.45.</note> to <hi>keep</hi> his <hi>Laws,</hi> and to <hi>obſerve</hi> his <hi>Statutes,</hi> and to <hi>acknowledge</hi> no other <hi>Law-giver</hi> but himſelf, in <hi>things</hi> that are of a <hi>Divine,</hi> and of a <hi>Spiritual</hi> nature; for ſo the <hi>Apoſtle</hi> tells us, that <hi>in ordine ad ſpiritualia, there is but one</hi>
+               <note n="(c)" place="margin">
+                  <hi>Eſt enim legiſlator uni<g ref="char:EOLhyphen"/>verſalis judex, &amp; lex univer<g ref="char:EOLhyphen"/>ſal<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> judicium, cui omnia omnium jud<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ia ſubjici &amp; adaptari debent.</hi> Davenant. de Iud. &amp; Nor. ſid. cap. 3.</note> 
+               <hi>Law-giver, who hath</hi> poteſtatem vitae &amp; necis, <hi>power to ſave and to deſtroy,</hi> Jam. 4.12.</p>
+            <p>Now (mark ye) when <hi>men</hi> ſhall go about (any men whatſoever) to ſet up their <hi>own Luſts,</hi> their <hi>own Wills,</hi>
+               <label type="milestone">
+                  <seg type="milestoneunit">Note. </seg>
+               </label> their <hi>own Ends,</hi> their <hi>own Advancements,</hi> their <hi>own Party,</hi> any <hi>thing in the world that is their own,</hi> either above <hi>common ſafety,</hi> or above the <hi>Throne</hi> and <hi>Scepter</hi> of <hi>Jeſus Chriſt</hi> (as
+<note n="(d)" place="margin">
+                  <hi>Loquimur d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Pontifice ra<g ref="char:EOLhyphen"/>tione ſolius Pon<g ref="char:EOLhyphen"/>tificatus, ac dici<g ref="char:EOLhyphen"/>mus cum, etiamſi ditionem tempo<g ref="char:EOLhyphen"/>ralem nullam haberet, non poſſe ullo modo judi<g ref="char:EOLhyphen"/>cari, in terris, ab ullo principe Chriſtiano, five ſeculari, ſive Eccleſiaſtico, ne<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> ab omnibus ſimul in concilio congregatis.</hi> Bellarm de Rom Pontif. lib. 2. cap. 26. <hi>Romani Pontifices ad imitationem Luciferi adorari volunt ut Dii, ne<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> reputant ſe ſubditos eſſe cuiquam, ficut filii Belial fine jugo; ne<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> ſibi poſſe dici, Cur ita facis? nec Deum timent, nec homines reve<g ref="char:EOLhyphen"/>rentur.</hi> Gerſ. conſid. 4. poſt tract. de unit. Eccleſ. citante Field, lib. 3. de Eccleſ cap. 2.</note> 
+               <hi>Popery does in the very forma<g ref="char:EOLhyphen"/>lity of it, and every thing elſe that is Antichriſtian)</hi> or elſe when <hi>men</hi> do but onely <hi>pretend</hi> to <hi>common ſafe<g ref="char:EOLhyphen"/>ty,</hi> or to the <hi>things of Jeſus Chriſt,</hi> meerly for their <hi>own Ends,</hi> and for the <hi>advancement,</hi> or <hi>lifting up</hi> of their <hi>own things,</hi> this is moſt abominable <hi>Self-ſeeking,</hi> and that which utterly <hi>ruines</hi> or <hi>pulls down</hi> all, as much as in it lies, as having no <hi>maner</hi> of <hi>conſiſtency,</hi> either with the <hi>Laws</hi> of God or Men.</p>
+            <p>And thus have I <hi>brought</hi> you to the <hi>ſight</hi> of the <hi>Di<g ref="char:EOLhyphen"/>ſtemper</hi> or <hi>Malady</hi> here complained of,
+<note place="margin">The Diſtem<g ref="char:EOLhyphen"/>per diſcovered.</note> by <hi>ſhewing</hi> you 1. What's meant here by <hi>that which is our own:</hi> And 2. What by an <hi>inordinate ſeeking of that which is our own.</hi>
+            </p>
+            <pb n="14" facs="tcp:117737:10"/>
+            <p> Now in the <hi>next place</hi> we are to <hi>enquire,</hi>
+               <label type="milestone">
+                  <seg type="milestoneunit">Queſt. </seg>3</label> how <hi>great</hi> an <hi>evil</hi> this is, for <hi>men</hi> to be thus <hi>inordi<g ref="char:EOLhyphen"/>nately ſtudious, or inquiſitive, about that which is their own?</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſ. </seg>
+               </label> And it will <hi>appear</hi> to be a moſt dangerous <hi>Evil</hi> or <hi>Diſtemper,</hi> upon a threefold <hi>ground</hi> or <hi>conſideration;</hi> it being <hi>contrary</hi>
+               <list>
+                  <item>1.
+<note place="margin">The danger of Self-ſeeking: it being</note> 
+                     <hi>To all Rules of Piety.</hi>
+                  </item>
+                  <item>2. <hi>To all Rules of Unity.</hi>
+                  </item>
+                  <item>3. <hi>To all Rules of Policy.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>Firſt,
+<milestone type="tcpmilestone" unit="unspecified" n="1"/> 
+               <hi>A ſelfiſh diſpoſition,</hi> or an <hi>inordinate ſeeking of that which is our own,</hi>
+               <note place="margin">Contrary to all Rules of Piety.</note> is clean <hi>contrary to all Rules of Piety:</hi> And that I may not be too long upon this, I ſhall onely inſtance in three <hi>Leſſons,</hi> which <hi>true Piety</hi> teaches, that the <hi>ſelfiſh man</hi> can never <hi>ſtoop</hi> to, or the man that <hi>meerly ſeeks his own things:</hi>
+               <list>
+                  <item>A <hi>Leſſon</hi> of <hi>Humility.</hi>
+                     <note place="margin">Three leſſons that <hi>Self</hi> can never ſtoop to.</note>
+                  </item>
+                  <item>A <hi>Leſſon</hi> of <hi>Contentation:</hi> and</item>
+                  <item>A <hi>Leſſon</hi> of <hi>Liberality.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>Firſt,
+<milestone type="tcpmilestone" unit="unspecified" n="1"/> 
+               <hi>Religion</hi> or true <hi>Piety,</hi> calls <hi>upon us</hi> to be <hi>hum<g ref="char:EOLhyphen"/>ble,</hi>
+               <note place="margin">A leſſon of Humility.</note> ſelf-denying creatures; <hi>Micah</hi> 6.8. <hi>He hath ſhewed thee, O man, what is good: and what doth the Lord re<g ref="char:EOLhyphen"/>quire of thee, but to do juſtly, and to love mercy, and to walk humbly with thy God?</hi> Nothing ſo <hi>contrary</hi> to <hi>Piety,</hi> as <hi>Pride,</hi> or ſo full of <hi>impiety;</hi> and
+<note n="(e)" place="margin">
+                  <hi>Quid tu igitur ſuperbis terra &amp; cinis? Si ſuperbienti<g ref="char:EOLhyphen"/>bus Angelis De<g ref="char:EOLhyphen"/>us non pepercit: quanto magis ti<g ref="char:EOLhyphen"/>bi putredo &amp; vermis?</hi> Bern. de Advent. Dom. Serm. 1. Gen. 18.27.</note> there<g ref="char:EOLhyphen"/>fore <hi>Why are we proud?</hi> Poor creatures! what have we to be <hi>proud</hi> of, <hi>who are but duſt and aſhes?</hi> who muſt ere long
+<note n="(f)" place="margin">Iob 17.14.</note> 
+               <hi>ſay unto Corruption, Thou art our father; and unto the Worm, Thou art our mother and our ſister?</hi>
+               <note n="(g)" place="margin">Iude v. 6.</note> The Angels of God that <hi>kept</hi> not their firſt <hi>eſtate,</hi> but left their own <hi>habitation,</hi> and that are now <hi>reſerved in everlaſting chains under darkneſs, to the judgement
+<pb n="15" facs="tcp:117737:10"/>of the great day,</hi>
+               <note n="(h)" place="margin">
+                  <hi>Fugite ſu<g ref="char:EOLhyphen"/>perbiam fratres mei (quaeſo) mul<g ref="char:EOLhyphen"/>tum fugite, Initium omnis peccati ſuperbia: quae tam veloci<g ref="char:EOLhyphen"/>ter ipſum quo<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> ſyderibus cunctis clariùs mican<g ref="char:EOLhyphen"/>tem aeternâ cali<g ref="char:EOLhyphen"/>gine obtenebra<g ref="char:EOLhyphen"/>vit Luciferum: quae non modo Angelum, ſed Angclorum pri<g ref="char:EOLhyphen"/>mum in Diabo<g ref="char:EOLhyphen"/>lum commutavit</hi> Bern ibid.</note> they fell by <hi>pride,</hi> and ſo do men <hi>always;</hi> every <hi>ſin</hi> hath its <hi>riſe</hi> from <hi>pride,</hi> for up<g ref="char:EOLhyphen"/>on what other <hi>account</hi> do men <hi>ſin,</hi> but becauſe (through
+<note n="(i)" place="margin">Obad. v. 3.</note> the <hi>pride</hi> of their <hi>hearts</hi>) they either <hi>know not,</hi> or <hi>neglect,</hi> or elſe
+<note n="(k)" place="margin">Prov. 1.25.</note> 
+               <hi>contemn</hi> the counſel of <hi>the</hi>
+               <note n="(l)" place="margin">Pſa. 92.8.</note> 
+               <hi>moſt High God?</hi> All <hi>ſin</hi> goes along with <hi>pride,</hi> and All <hi>pride</hi> with <hi>ſin;</hi> but <hi>where</hi> there is <hi>any</hi> thing of <hi>piety,</hi> there muſt be <hi>ſomething</hi> of <hi>humility,</hi> for <hi>God reſists the proud, and he gives grace to none but to the humble,</hi> Jam. 4.6. <hi>He ſcorns the ſcorners, and he gives grace to to none but to the lowly,</hi> Prov. 3.34. To <hi>none</hi> but ſuch as <hi>Chriſt</hi> was, <hi>meek and lowly in heart,</hi> Matth. 11.28. The ſpecial <hi>habitation</hi> or <hi>dwelling-place</hi> of God, the two <hi>Thrones</hi> of God, are the <hi>higheſt Heaven,</hi> and the <hi>loweſt Heart:</hi> O how <hi>good,</hi> and <hi>amiable,</hi> and <hi>honorable</hi> a <hi>thing</hi> is it, to be upon the <hi>Throne</hi> with God! <hi>to dwell where God dwells!</hi> for ſurely, <hi>whereſoever</hi> he dwells, there <hi>Grace</hi> dwells, and there <hi>Peace</hi> dwells, and there <hi>Comfort</hi> dwells: <hi>All good dwells where God dwells;</hi> and (loe) his <hi>Promiſe</hi> is, to <hi>dwell</hi> with thoſe, that are of an humble ſpirit; Iſa. 57.15. <hi>Thus ſaith the high and lofty One, that inhabiteth Eternity, whoſe Name is Holy, I dwell in the high and holy place, with him alſo that is of a contrite and humble Spirit, to revive the Spirit of the humble, and to revive the heart of the contrite ones.</hi>
+            </p>
+            <p>But how can this be ever <hi>relliſhed</hi> by the ſelfiſh man, or by him that meerly ſeeks his own things, and that never <hi>mindes</hi> the <hi>publique good,</hi> or the <hi>things of Jeſus Chriſt?</hi> How can <hi>Self deny</hi> it ſelf,
+<note place="margin">Self not able to deny it ſelf, or to humble it ſelf, or to cleanſe it ſelf.</note> or <hi>hum<g ref="char:EOLhyphen"/>ble</hi> it ſelf, or <hi>abhor</hi> it ſelf? Can any thing <hi>work</hi> beyond the <hi>Spheare</hi> of its own activity? Can that which is <hi>filthy,</hi> make it ſelf <hi>holy?</hi> or that which
+<pb n="16" facs="tcp:117737:11"/>is
+<note n="(m)" place="margin">Who can bring a clean thing out of an unclean? not one, <hi>Job</hi> 14.4.</note> 
+               <hi>unclean,</hi> make it ſelf <hi>clean?</hi> Can the <hi>creature</hi> firſt <hi>break</hi> or <hi>unmake</hi> it ſelf quite, and then afterwards <hi>repair</hi> or <hi>make it ſelf up again,</hi> and be in a <hi>better con<g ref="char:EOLhyphen"/>dition</hi> then ever? Is it in the <hi>power</hi> of the <hi>creature</hi> to bring <hi>light</hi> out of <hi>darkneſs,</hi> or <hi>good</hi> out of <hi>evil,</hi> or <hi>ſomething</hi> out of <hi>nothing?</hi> No ſurely; <hi>God can do this,</hi> and he <hi>may</hi> do it, when he <hi>pleaſes;</hi> but the <hi>crea<g ref="char:EOLhyphen"/>ture</hi> cannot do it; <hi>Self</hi> hath neither <hi>ſtrength</hi> nor <hi>ſto<g ref="char:EOLhyphen"/>mack,</hi> neither <hi>power</hi> nor <hi>will</hi> to do it.</p>
+            <p>Secondly,
+<milestone type="tcpmilestone" unit="unspecified" n="2"/> Another <hi>Leſſon</hi> that <hi>Religion</hi> or <hi>true Piety</hi> teaches,
+<note place="margin">A leſſon of Contentation. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> is that of <hi>Contentation; Godlineſs with con<g ref="char:EOLhyphen"/>tentment is great gain,</hi> or <hi>Godlineſs with ſelf-ſuffici<g ref="char:EOLhyphen"/>ency:</hi> 1 Tim. 6.6. <hi>Let your converſation be without covetouſneſs, and be content with ſuch things as ye have; for he hath ſaid,</hi>
+               <note n="(n)" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. 5 Neg. <hi>Eſt ne<g ref="char:EOLhyphen"/>gationis condu<g ref="char:EOLhyphen"/>plicatio ut fit vehementior pollicitatio.</hi> Eſtius in loc.</note> 
+               <hi>I will never leave thee nor for<g ref="char:EOLhyphen"/>ſake thee,</hi> Heb. 13.5. <hi>Paul</hi> had <hi>exactly</hi> learned this <hi>Leſſon; Piety</hi> had made him <hi>perfect, Religion</hi> had made him very <hi>skilful</hi> in the <hi>Leſſon</hi> of <hi>Contentation:</hi> Phil. 4.11, 12. <hi>I have learned,</hi> ſays he, <hi>in whatſoever ſtate I am, therewith to be content; I know how to be abaſed, and I know how to abound: every where, and in all things I am inſtructed, both to be full, and to be hun<g ref="char:EOLhyphen"/>gry; both to abound, and to ſuffer need:</hi> I pray mark, <hi>I have learned,</hi> ſays <hi>Paul, I know, and am inſtructed,</hi> he ſpeaks <hi>experimentally;</hi> as <hi>Laban</hi> ſaid to <hi>Jacob</hi> in another caſe, <hi>Gen.</hi> 30.27. <hi>I have learned by experience, that the Lord hath bleſſed me for thy ſake:</hi> ſo <hi>Paul</hi> knew by <hi>experience,</hi> That although of <hi>himſelf</hi> he was as apt to <hi>murmure</hi> and be <hi>diſcontented,</hi> as any other <hi>man,</hi> yet that
+<note n="(o)" place="margin">1 Pet. 5.10</note> the <hi>God of all Grace,</hi> had now <hi>given</hi> him ſo much <hi>Grace,</hi> as to be <hi>contented</hi> with his <hi>por<g ref="char:EOLhyphen"/>tion.</hi>
+            </p>
+            <p>But now it is a <hi>thing impoſsible,</hi> that ever <hi>created Self</hi>
+               <pb n="17" facs="tcp:117737:11"/>ſhould be <hi>ſatisfied</hi> with it ſelf,
+<note place="margin">No real ſelf-ſufficiency among the creatures.</note> becauſe the <hi>creature</hi> hath no <hi>ſelf-ſufficiency</hi> within its own <hi>bounds</hi> or <hi>limits;</hi> and therefore <hi>Zophar</hi> ſays of a wicked man, that <hi>Although his excellency mount up to the heavens, and his head reach unto the clouds, yet even in the fulneſs of his ſufficiency he ſhall be in ſtraits,</hi> Job 20.6, 22. God never <hi>ordained,</hi> or <hi>appointed</hi> the <hi>creature,</hi> to be the <hi>Center</hi> of its own <hi>felicity,</hi>
+               <note place="margin">Auguſt. Conf. lib. 1. cap. 1. <hi>Vae animae audaci quae ſperavit ſi à te receſſiſſet, ſe aliquid melius habituram: ver<g ref="char:EOLhyphen"/>ſa &amp; reverſa in tergum, &amp; in latera, &amp; in ventrem, &amp; du<g ref="char:EOLhyphen"/>ra ſunt omnia, &amp; tu ſolus requies.</hi> Idem Confeſſ. lib. 6. cap. 16.</note> but to go <hi>out</hi> of it <hi>ſelf,</hi> and <hi>reſt</hi> upon him <hi>alone,</hi> for all <hi>maner</hi> of <hi>ſatisfa<g ref="char:EOLhyphen"/>ction;</hi> according to that known <hi>ſaying</hi> of <hi>(p) Auſtins, Quoniam feciſti nos ad te Domine, &amp;c.</hi> Becauſe thou haſt made us Lord unto thee, therefore our heart is un<g ref="char:EOLhyphen"/>quiet, till it reſt it ſelf in thee: and, <hi>Return unto thy reſt, O my ſoul,</hi> ſays <hi>David,</hi> Pſal. 116.7. that is, unto <hi>thy God,</hi> O my <hi>ſoul,</hi> and unto <hi>thy God in Chriſt,</hi> for there is no beholding <hi>God, but in the face of Jeſus Chriſt; No man knoweth the Father, ſave the Son, and he to whomſoever the Son will reveal him,</hi> Matth. 11.27.</p>
+            <p>Thirdly, Another <hi>Leſſon,</hi>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> or <hi>Doctrine</hi> of great <hi>con<g ref="char:EOLhyphen"/>cernment,</hi>
+               <note place="margin">A leſſon of Liberality.</note> that Religion <hi>preſſes</hi> and <hi>urges</hi> upon thoſe that are <hi>Rich in this World,</hi> is, To be <hi>free,</hi> and to be <hi>li<g ref="char:EOLhyphen"/>beral,</hi> to be <hi>open-hearted,</hi> and <hi>open-handed,</hi>
+               <note n="(q)" place="margin">Pſa. 112.9.</note> to <hi>di<g ref="char:EOLhyphen"/>ſperſe,</hi> to <hi>give to the poor,</hi> to
+<note n="(r)" place="margin">Luke 16.9.</note> 
+               <hi>make friends of the Mammon of unrighteouſneſs;</hi>
+               <note n="(s)" place="margin">1 Tim. 6.18</note> to be <hi>rich in good works, ready to diſtribute, willing to communicate;</hi>
+               <note n="(t)" place="margin">Eccl. 11.1.</note> 
+               <hi>to caſt their bread upon the living waters, that after many days they may finde it again;</hi>
+               <note n="(u)" place="margin">Iam. 1.27.</note>
+               <note place="margin">
+                  <hi>Caecorum baculus, eſuricu<g ref="char:EOLhyphen"/>tium cibus, spes miſerorum, ſo<g ref="char:EOLhyphen"/>lamcu lugen<g ref="char:EOLhyphen"/>tium fuit.</hi> Hieron. de Mort. Nepot, Epiſt. 3.</note> 
+               <hi>to viſit the fatherleſs and widows in their affliction;</hi> to be as
+<note n="(w)" place="margin">Iob 29.13 15.16.</note> 
+               <hi>Job</hi> was, <hi>Eyes to the blinde,</hi> and <hi>feet to the lame,</hi> and <hi>fathers to the poor,</hi> and <hi>to make the widows heart even to ſing for joy.</hi> I do not <hi>know</hi> any one <hi>thing,</hi> that the <hi>Scripture</hi> does more <hi>frequently</hi> or <hi>earneſtly</hi> preſs, then this, or
+<pb n="18" facs="tcp:117737:12"/>that we <hi>had more need to preſs</hi> in theſe <hi>hard Times,</hi>
+               <note place="margin">
+                  <hi>Pulchritudo divitiarum non in ſacculis divi<g ref="char:EOLhyphen"/>tam, ſed in ali<g ref="char:EOLhyphen"/>mentis pauperum eſt: In illis infirmls &amp; egeuis melius opes lucent: Diſcant ita<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> pecunioſi, non ſua, ſed ea quae ſunt Chriſti quaerere, ut illos &amp; Chriſtus requirat, ut illis ſua largiatur.</hi> Ambroſ. Epiſt. l. 3.</note> wherein <hi>abundance</hi> of <hi>poor people</hi> are even ready to <hi>ſtarve</hi> for want of neceſſaries.</p>
+            <p>But what ſays <hi>Self</hi> to this now, or the <hi>man that meerly ſeeks his own things?</hi>
+               <note place="margin">Self a great enemy to libe<g ref="char:EOLhyphen"/>rality.</note> O no, ſays he, I muſt not be <hi>too free,</hi> I muſt not be <hi>too liberal,</hi> I muſt not <hi>give away all,</hi> or give away <hi>too much;</hi> by all <hi>means</hi> I muſt <hi>take heed</hi> of that, for <hi>either</hi> I <hi>my ſelf</hi> may want it, or <hi>my children</hi> want it, or <hi>my trade</hi> want it, or <hi>my luſts</hi> want it: and ſo there's <hi>little</hi> or nothing to be had, where <hi>covetous unbelieving Self</hi> riſes up, and forbids the <hi>practice</hi> of this <hi>Religious Leſſon.</hi>
+            </p>
+            <p>Secondly,
+<milestone type="tcpmilestone" unit="unspecified" n="2"/> this <hi>inordinate ſeeking of our own things,</hi> as it is contrary to <hi>All Rules of Piety,</hi>
+               <note place="margin">Contrary to all Rules of Vnity.</note> ſo to <hi>All Rules of Unity,</hi> and <hi>Peace,</hi> and <hi>Concord:</hi> For what <hi>elſe is it,</hi> that <hi>divides</hi> people, and that does ſo <hi>mightily diſquiet</hi> and <hi>diſtract</hi> them, but onely this, That <hi>Self</hi> carries them upon <hi>ſeveral Principles,</hi> unto <hi>ſeveral Ends,</hi> by <hi>ſeveral Rules,</hi> one <hi>againſt</hi> another? otherwiſe, <hi>were it not for this,</hi>
+               <note place="margin">Foundations of Agreement.</note> there are <hi>Foundations</hi> enough of <hi>Unity</hi> and of <hi>Agreement,</hi> both in <hi>Civil</hi> things, and in <hi>Sacred;</hi> and ſuch <hi>Foundations</hi> as could never be <hi>caſt down,</hi> if men were not <hi>too ſelfiſh,</hi> or too <hi>eagerly bent</hi> upon their own things.</p>
+            <p>For firſt,
+<milestone type="tcpmilestone" unit="unspecified" n="1"/> 
+               <hi>In Civil things,</hi> if I would have
+<note n="(z)" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>; Chryſoſt. Hom 14. in Epiſt. ad Philip.</note> another to <hi>dwell ſecurely,</hi>
+               <note place="margin">In Civil things</note> or to <hi>live quietly</hi> by me, muſt not I <hi>live quietly</hi> by him? If I would have him <hi>to practiſe no evil</hi> againſt me, muſt not I be ſure <hi>to practiſe no evil</hi> againſt him? If I would have him <hi>careful</hi> not <hi>to in<g ref="char:EOLhyphen"/>jure me,</hi> muſt not I be <hi>careful</hi> not to <hi>injure him?</hi> If I
+<pb n="19" facs="tcp:117737:12"/>would have him <hi>tender of my welfare,</hi> muſt not I be <hi>tender of his welfare?</hi> Does not the very <hi>Law</hi> of <hi>Na<g ref="char:EOLhyphen"/>ture,</hi> as well as the <hi>Law of God,</hi> lay this <hi>Injunction</hi> up<g ref="char:EOLhyphen"/>on us, <hi>To do as we would be done by?</hi> And ſo <hi>long</hi> as ye <hi>keep</hi> within theſe <hi>Bounds,</hi> and are <hi>followers of that which is good, who is he that will harm you?</hi> ſays the Apoſtle, 1 <hi>Pet.</hi> 3.13.</p>
+            <p>And I <hi>pray</hi> what is it, that <hi>puts us</hi> at any time upon <hi>exceeding</hi> the <hi>limits</hi> of that <hi>Golden Rule,</hi>
+               <note place="margin">Violence of<g ref="char:EOLhyphen"/>fered by Self unto that ex<g ref="char:EOLhyphen"/>cellent Rule of <hi>Doing as we would be done by,</hi> Mat. 7.12. See M. <hi>Perkins</hi> on the place, in his Expoſition of <hi>Chriſt,</hi> Serm. in the Mount.</note> of <hi>Doing as we would be done by,</hi> but our <hi>neglecting the publique good,</hi> and <hi>the things of Jeſus Chriſt,</hi> and our <hi>being too eagerly bent</hi> upon our own things? We ſhould <hi>agree well enough,</hi> if it were not <hi>for that,</hi> every <hi>man</hi> with his <hi>Neighbor,</hi> and every <hi>man</hi> with his <hi>Brother,</hi> and rather <hi>bear with one another,</hi> in caſe of <hi>wrongs</hi> and <hi>injuries,</hi> then be at <hi>daggers drawing ſtrait,</hi> upon every ſmall offence.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> And ſo likewiſe in <hi>Sacred things,</hi> in matters of <hi>Faith,</hi> or of <hi>Chriſtianity,</hi>
+               <note place="margin">In Sacred things.</note> there are ſo many <hi>fundamentals</hi> of <hi>Agreement</hi> in theſe things, that a man would <hi>wonder,</hi> how there ſhould be <hi>any material difference</hi> among <hi>thoſe,</hi> who are ſo <hi>many ways united,</hi> or faſt <hi>glued</hi> toge<g ref="char:EOLhyphen"/>ther; as namely, ſince there is but
+<note n="(a)" place="margin">Eph. 4.4, 5, 6. Vid. Piſcat hic. Mr. <hi>Cartwr.</hi> Anſwer to the Rhem. Annota. <hi>Non habent Dei charitatem, qui Eccleſiae non diligunt unitatem,</hi> Aug de Baptiſm. lib. 3. cap. 16. Vid. Cypr. de unit. Eccleſ. Gregor. Nazianz. Orat. 14. Euſeb. de vit. Conſtant. lib. 2. cap. 68. &amp; lib. 3 cap. 13. Whitaker. contr. 3. quaeſt. 4. Davenant Epiſt Pacificat. Iren. Ier. Burr. &amp; Al.</note> 
+               <hi>one God,</hi> and <hi>one Chriſt,</hi> and <hi>one Spirit,</hi> and <hi>one Faith,</hi> and <hi>one Baptiſm,</hi> and <hi>one Body,</hi> and <hi>one hope of our Calling;</hi> ſince in
+<pb n="20" facs="tcp:117737:13"/>thus <hi>many things</hi> we are already <hi>agreed</hi> as one, why then <hi>do we differ</hi> ſo much, or why do <hi>we diſagree</hi> at all? why do we not <hi>go on ſtill,</hi> according to theſe <hi>good be<g ref="char:EOLhyphen"/>ginnings?</hi>
+            </p>
+            <p>The general <hi>Reaſon</hi> of it,
+<note place="margin">Why ſo much difference, notwithſtand<g ref="char:EOLhyphen"/>ing all former unities.</note> is this, <hi>Becauſe</hi> when theſe <hi>Principles</hi> fall into the <hi>hands</hi> of <hi>formal</hi> perſons, or when they <hi>come</hi> to be <hi>managed</hi> and improved by <hi>thoſe,</hi> that are no
+<note n="(b)" place="margin">
+                  <hi>Chriſti ex<g ref="char:EOLhyphen"/>traordinaria gubernatio, &amp; Spiritus ſancti ſalutifera illu<g ref="char:EOLhyphen"/>minatio, illos reſpicit, qui ſunt vera &amp; viva membra eccleſia: non autem ill is alligatur qui obtinent tantum<g ref="char:EOLhyphen"/>modo locum ex<g ref="char:EOLhyphen"/>ternum in Eccleſiâ: Si enim pertinent ad Synagogam Satanae (quod quando<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> accidit) illu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> unum corpus, <hi>&amp;</hi> unus Spiritus, <hi>&amp; Chriſtus eſt caput Eccleſiae, ad cos emnino non pertingit,</hi> Davenant. Diſp. de Iud. &amp; norm. fid. cap. 18.</note> 
+               <hi>true living members</hi> of the <hi>myſtical body of Chriſt</hi> (having onely ſome <hi>outer Room</hi> for a while in the <hi>Church</hi>) there Self <hi>interpoſes,</hi> and <hi>troubles</hi> the wa<g ref="char:EOLhyphen"/>ters, by <hi>putting</hi> ſeveral <hi>gloſſes</hi> or <hi>interpretations</hi> upon theſe <hi>things,</hi> no way <hi>conſiſtent</hi> with the <hi>nature</hi> of them, and ſo cauſes
+<note n="*" place="margin">
+                  <hi>Nimium altercando veritas amittitur,</hi> A. Gell. <hi>Fides eſt veritatis, non voluntatis, Evangeliorum non temporum,</hi> Hilar. cont. Conſtant.</note> 
+               <hi>jars,</hi> and <hi>contentions,</hi> and <hi>quarrels,</hi> and <hi>ſeveral voyces</hi> to be heard, where there ſhould be <hi>but one voyce;</hi> and the <hi>greateſt diſcrepancy,</hi> where there ſhould be the <hi>ſweeteſt harmony.</hi>
+            </p>
+            <p>More <hi>particularly,</hi>
+               <note place="margin">Three ſpecial Rules of unity broken aſunder by Self.</note> there are three <hi>ſpecial Rules,</hi> or <hi>Ligaments</hi> of <hi>Unity,</hi> that are all <hi>diſſolved</hi> or <hi>broken aſunder</hi> by Self, or by <hi>mens</hi> poring too <hi>much</hi> upon <hi>their own things:</hi> Brethren that would <hi>dwell</hi> together in <hi>Unity,</hi>
+               <list>
+                  <item>1. They muſt <hi>love</hi> one another.</item>
+                  <item>2. They muſt be <hi>faithful</hi> to one another.</item>
+                  <item>3. They muſt <hi>bear</hi> with one another.</item>
+               </list>
+            </p>
+            <p>And you ſhall <hi>briefly</hi> ſee, how <hi>Self deſtroys</hi> each of theſe <hi>Bands,</hi> or <hi>Rules</hi> of <hi>Unity.</hi>
+            </p>
+            <p>Firſt,
+<label type="milestone">
+                  <seg type="milestoneunit">Rule. </seg>1</label> 
+               <hi>Whereſoever there is Unity, there muſt be Love;</hi> that's a <hi>clear caſe,</hi>
+               <note place="margin">Where there is unity there muſt be love.</note> and a moſt <hi>ſure Rule:</hi> And there<g ref="char:EOLhyphen"/>fore
+<pb n="21" facs="tcp:117737:13"/>the Apoſtle calls <hi>love,</hi> not onely
+<note n="(c)" place="margin">As <hi>ens</hi> in Logick com<g ref="char:EOLhyphen"/>municates his being to the ten Predicaments, ſo is <hi>love</hi> to the ten Command<g ref="char:EOLhyphen"/>ments. Dr. <hi>Stoughton L. S. Spouſe,</hi> pag. 48.</note> 
+               <hi>A fulfilling of the Law,</hi> Rom. 13.10. and the <hi>end of the command<g ref="char:EOLhyphen"/>ment,</hi> 1 Tim. 1.5. but he calls it likewiſe, <hi>The bond of perfectneſs,</hi> or <hi>The moſt perfect bond,</hi> by an uſual He<g ref="char:EOLhyphen"/>braiſm, <hi>Col.</hi> 3.14. it being that which <hi>cements,</hi> and <hi>ſoders,</hi> and <hi>holds</hi> us together more then <hi>any thing,</hi> even the <hi>Sacred bond of love:</hi> Neither is there any <hi>one duty,</hi> that the <hi>New Teſtament</hi> does more <hi>frequently</hi> or <hi>ear<g ref="char:EOLhyphen"/>neſtly</hi> preſs upon us, then this <hi>neceſſary duty,</hi> of <hi>Love to one another;</hi> which is both the <hi>duty,</hi> and the <hi>beauty,</hi> the <hi>honor</hi> and the
+<note n="(d)" place="margin">
+                  <hi>Amor im<g ref="char:EOLhyphen"/>penetrabil is eſt lorica, reſpuit jacula, gladios excutit, pericu<g ref="char:EOLhyphen"/>lis inſultat, mortem ridet, ſi amor eſt vincit omnia:</hi> Chryſol. de bono Paſt. Serm. 40.</note> 
+               <hi>armor</hi> of a Chriſtian.</p>
+            <p>But now where <hi>Self prevails,</hi>
+               <note place="margin">No ſincere love, where ſelf prevails, and is predominant.</note> or where there is <hi>an inordinate minding of our own things,</hi> there can be <hi>no love;</hi> for as the <hi>praeternatural heat</hi> in the body of a <hi>ſick Feveriſh</hi> man, conſumes the <hi>natural heat,</hi> and ſo <hi>deſtroys</hi> the man; ſo <hi>carnal ſinful ſelf-love,</hi> eats out the <hi>heart</hi> of all <hi>true love: He that loves no body but himſelf, can never be ſuppoſed to love his Neighbor as himſelf.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Rule. </seg>2</label> Secondly, <hi>Where there is Unity, there muſt be Faith<g ref="char:EOLhyphen"/>fulneſs too:</hi> No greater <hi>enemy</hi> to <hi>unity,</hi> then <hi>treachery,</hi>
+               <note place="margin">Where there is unity, there muſt be faith<g ref="char:EOLhyphen"/>fulneſs.</note> or <hi>falſeneſs</hi> of ſpirit; they can never be <hi>firmly united</hi> one to <hi>another,</hi> that know not how to <hi>truſt one another.</hi>
+               <note n="(e)" place="margin">
+                  <hi>Nulla res v<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>hementius Rem<g ref="char:EOLhyphen"/>publicam conti<g ref="char:EOLhyphen"/>net quam fides.</hi> Ciero.</note> No one thing does more ſtrongly <hi>unite,</hi> or <hi>hold to<g ref="char:EOLhyphen"/>gether</hi> a Commonwealth, then <hi>Fidelity,</hi> ſays an Hea<g ref="char:EOLhyphen"/>then Author: Anſwerable whereunto, is that of the Apoſtles, <hi>Eph.</hi> 4.25. <hi>Put away lying, and ſpeak every man truth to his Neighbor;</hi> and that upon this ground, <hi>Becauſe we are members one of another.</hi>
+            </p>
+            <p>But who more <hi>unfaithful</hi> or <hi>treacherous,</hi>
+               <note place="margin">The treachery of Self, or vile per<g ref="char:EOLhyphen"/>fidiouſneſs of it.</note> then <hi>ſelfiſh men,</hi> that meerly <hi>minde their own things?</hi> And that
+<pb n="22" facs="tcp:117737:14"/>can <hi>eaſily turn</hi> either this <hi>way,</hi> or that <hi>way,</hi> to this <hi>ſide</hi> or to <hi>that,</hi> according as their own <hi>advantages</hi> or <hi>occa<g ref="char:EOLhyphen"/>ſions</hi> ſhall at any time <hi>incline,</hi> or <hi>perſwade</hi> them ſo to do; yea, it is <hi>many times</hi> a matter of no <hi>great moment,</hi> an exceeding <hi>ſmall</hi> matter, a very <hi>poor mean thing,</hi> that will turn theſe <hi>Weather-cocks</hi> about and about. We read in <hi>Amos,</hi> of ſome that <hi>ſold the righteous for ſilver, and</hi>
+               <note n="(f)" place="margin">— <hi>Egente<g ref="char:cmbAbbrStroke">̄</g> pro pari calccorum, hoc eſt, re viliſ<g ref="char:EOLhyphen"/>ſimâ.</hi> Tarnov. in loc.</note> 
+               <hi>the poor for a pair of ſhoes,</hi> Amos 2.6. And <hi>Ezekiel</hi> ſpeaks of ſome, that <hi>would pollute Gods Name among the people, but for</hi>
+               <note n="(g)" place="margin">— <hi>Propter pugillum Hordei, minimâ merce<g ref="char:EOLhyphen"/>de.</hi> Maldonat. hic.</note> 
+               <hi>handfuls of barley, and for pieces of bread,</hi> Ezek. 13.19. Prophane
+<note n="(h)" place="margin">Gen. 25.34 Heb. 12.16.</note> 
+               <hi>Eſau</hi> ſold his <hi>birthright</hi> but for <hi>a meſs of pottage;</hi> and
+<note n="(i)" place="margin">Mat. 26.15.</note> 
+               <hi>Judas</hi> his Maſter but for <hi>Thirty pieces of ſilver.</hi>
+            </p>
+            <p>Thirdly,
+<label type="milestone">
+                  <seg type="milestoneunit">Rule. </seg>3</label> 
+               <hi>Where there is Unity, there muſt be</hi>
+               <note n="(k)" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, Iam. 1.4. Heb. 10.36. Epheſ. 4.2.</note> 
+               <hi>Pa<g ref="char:EOLhyphen"/>tience</hi> mutually to <hi>bear</hi> with,
+<note place="margin">Where there is unity, there muſt be pati<g ref="char:EOLhyphen"/>ence.</note> and <hi>forbear</hi> one another: The <hi>beſt of men,</hi> are but <hi>men at the beſt,</hi> and in that re<g ref="char:EOLhyphen"/>ſpect <hi>liable</hi> to manifold <hi>infirmities;</hi> and therefore, if we would <hi>agree</hi> with them, we muſt of neceſſity <hi>bear</hi> with them, and <hi>give</hi> them their <hi>allowance;</hi> eſpecially <hi>we ſhould do this,</hi> that are called <hi>Chriſtians: Bear ye one anothers burthens,</hi> ſays the Apoſtle, <hi>and ſo fulfil the law of Chriſt,</hi> Gal. 6.2. He does not <hi>onely bid them</hi> to <hi>bear</hi> their <hi>own burthens patiently</hi> and <hi>quietly,</hi> but the <hi>bur<g ref="char:EOLhyphen"/>thens</hi> of one <hi>another</hi> alſo, as well as their <hi>own.</hi>
+            </p>
+            <p>There are <hi>none</hi> that <hi>gain</hi> ſo much upon the <hi>hearts</hi> and <hi>affections</hi> of others, in <hi>order to their Eternal welfare,</hi> as they that are of a <hi>meek,</hi> and of a <hi>patient</hi> Spirit, enabling <hi>them</hi> to
+<note n="(l)" place="margin">
+                  <hi>Hic eſt ille Farellus qui nullis difficulta<g ref="char:EOLhyphen"/>tibus fractus, nul lis minis, convi<g ref="char:EOLhyphen"/>tiis, verberibus deui<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> inflict is territus Mom<g ref="char:EOLhyphen"/>pelgardenſes, A<g ref="char:EOLhyphen"/>qutleienſes, Lau<g ref="char:EOLhyphen"/>ſanenſes, Genevenſes, Novocomenſes Chriſto lucrifecit.</hi> Mel. Adam. Decad. in vitâ Farel.</note> bear <hi>long</hi> with <hi>very much,</hi> that they may <hi>win ſouls to Chriſt:</hi> 2 Tim. 2.10. <hi>Therefore I endure all things</hi> (ſays the Apoſtle) <hi>for the Elects ſake, that they may alſo obtain the ſalvation which is in Chriſt Jeſus, with eternal glory.</hi>
+            </p>
+            <pb n="23" facs="tcp:117737:14"/>
+            <p> But <hi>how</hi> or <hi>which</hi> way muſt this be <hi>done?</hi> How <hi>ſhall</hi> a man <hi>attain</hi> to ſuch a <hi>frame</hi> of ſpirit as this? The ſame <hi>Apoſtle</hi> gives you an <hi>excellent</hi> Rule for that, <hi>Rom.</hi> 15.1. <hi>We that are ſtrong, ought to bear the infir<g ref="char:EOLhyphen"/>mities of the weak, and</hi>
+               <note n="(m)" place="margin">
+                  <hi>Placere ſibi dicitur, qui ef<g ref="char:EOLhyphen"/>fertur &amp; glo<g ref="char:EOLhyphen"/>riatur: de quo non agit hic propriè Apo<g ref="char:EOLhyphen"/>ſtolus, ſed de co potius qui caete<g ref="char:EOLhyphen"/>ris contemtis ſui unius ratio<g ref="char:EOLhyphen"/>nem habet, id<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> unum spectat, ut animo ſuo morem gerat.</hi> Beza in loc. Vide etiam Gualther. &amp; Willet. ibid.</note> 
+               <hi>not to pleaſe our ſelves, for even Chriſt pleaſed not himſelf;</hi> at the 3 <hi>ver.</hi> of that Chapter: as if he ſhould have ſaid, If we do go about <hi>to pleaſe our ſelves;</hi> if we do ſeek our <hi>own things meerly,</hi> and not the <hi>good of others,</hi> we ſhall not <hi>onely offend</hi> againſt the <hi>Example</hi> of Chriſt, but againſt that <hi>Royal Law of his,</hi> which <hi>expreſly</hi> bids us, to <hi>bear one an<g ref="char:EOLhyphen"/>others burthens.</hi> And thus ye ſee, how <hi>inconſiſtent</hi> a <hi>ſelfiſh</hi> diſpoſition is, both with <hi>All Rules of Piety,</hi> and likewiſe with <hi>All Rules of Unity.</hi>
+            </p>
+            <p>There is but one <hi>particular</hi> more to be opened,
+<milestone type="tcpmilestone" unit="unspecified" n="3"/> and that is to <hi>ſhew</hi> you,
+<note place="margin">Contrary to all Rules of Policy.</note> That an <hi>inordinate ſeeking of our own things,</hi> is not onely contrary to <hi>All Rules of Piety,</hi> and contrary to <hi>All Rules of Unity,</hi> but con<g ref="char:EOLhyphen"/>trary to <hi>All Rules of Policy</hi> alſo.</p>
+            <p>And here I would <hi>intreat</hi> you to <hi>obſerve,</hi> That I take the word
+<note n="(n)" place="margin">Vide Sca<g ref="char:EOLhyphen"/>pul. Lexic. in voc. [<gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>] Budae<g ref="char:EOLhyphen"/>um, Paſor. &amp; Alios.</note> 
+               <hi>Policy,</hi> in the moſt innocent, harmleſs inten<g ref="char:EOLhyphen"/>tion or ſignification of the word, as it betokens <hi>Order,</hi> or <hi>Diſcipline,</hi> or <hi>Government;</hi> a right <hi>compoſure,</hi> or <hi>diſpoſition,</hi> or <hi>framing</hi> of humane <hi>Societies</hi> into ſuch a <hi>way,</hi> wherein the <hi>Inhabitants</hi> or <hi>People</hi> may be mu<g ref="char:EOLhyphen"/>tually <hi>helpful,</hi> or <hi>advantageous,</hi> or
+<note n="(o)" place="margin">
+                  <hi>Cur enim per univerſos populos diverſa &amp; varia jura ſunt condita, niſi quod unaquae<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> gens, id ſibi ſanxit, quod putavit rebus ſuis utile?</hi> Lactant. de Ver. Cult. lib. 6. cap. 9.</note> 
+               <hi>uſeful</hi> unto one another.</p>
+            <pb n="24" facs="tcp:117737:15"/>
+            <p> Now in every <hi>outward Government</hi> (what
+<note n="(p)" place="margin">
+                  <hi>De Rerum<g ref="char:EOLhyphen"/>publ. form. ca<g ref="char:EOLhyphen"/>rum<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> Admi<g ref="char:EOLhyphen"/>niſtrat.</hi> Vide Ariſt. Polit. lib. 4. cap. 7. Platon. Greg. Tholoſ. de Rep. Bodin. Keckerman. Syſtem. Polit. Polan. Syntag. Theol. l. 7. c 19 Two ſorts of things chiefly conſiderable in every outward Government. <hi>Caeſars</hi> ſpeech to the Marri<g ref="char:EOLhyphen"/>ner in a ſtorm.</note> 
+               <hi>Name</hi> ſoever ye <hi>put</hi> upon it, whether ye call it a <hi>Monarchy,</hi> or an <hi>Ariſtocracy,</hi> a <hi>Kingdom,</hi> or a <hi>Commonwealth,</hi> or whatever elſe ye <hi>pleaſe</hi> to call it) there are but two ſorts of <hi>Things</hi> chiefly <hi>conſiderable</hi> in it, <hi>Salus Populi,</hi> and <hi>Res Chriſti,</hi> The <hi>publique Safety</hi> or <hi>Intereſt</hi> of the <hi>People,</hi> with all that comes under <hi>that,</hi> and <hi>The things of Jeſus Chriſt;</hi> whatſoever elſe is <hi>viſible</hi> in any <hi>out<g ref="char:EOLhyphen"/>ward Government,</hi> it either is (or ſhould be at leaſt) <hi>ſub<g ref="char:EOLhyphen"/>ſervient</hi> unto theſe two ſorts of <hi>Great things:</hi> And therefore, as he ſaid to the <hi>Marriner,</hi> in that <hi>known</hi> Story, <hi>Perge contra tempeſtatem fortiter, Caeſarem ve<g ref="char:EOLhyphen"/>his, &amp; fortunam Caeſaris;</hi> Bear up <hi>ſtoutly</hi> againſt the <hi>ſtorm,</hi> thou haſt <hi>Caeſar</hi> in thy <hi>Veſſel,</hi> and the fortune of <hi>Caeſar:</hi> ſo we may <hi>ſay</hi> to thoſe that <hi>ſit</hi> at the <hi>Stern,</hi> and that <hi>Rule over Nations,</hi> See that your <hi>Tackling</hi> be <hi>ſtrong,</hi> and <hi>tite,</hi> and <hi>good,</hi> having a mighty <hi>Charge</hi> committed to you; for ye <hi>have</hi> not onely the <hi>Lives,</hi> and <hi>Liberties,</hi> the <hi>Eſtates</hi> and <hi>Poſſeſsions</hi> of many <hi>thou<g ref="char:EOLhyphen"/>ſands</hi> of people, But ye have the <hi>things of Chriſt</hi> alſo, in ſome ſenſe, <hi>imbarqued</hi> in the ſame Ship with you; though <hi>perhaps</hi> you your <hi>ſelves</hi> think not of it, nor never ſo much as <hi>dream</hi> of any ſuch matter.</p>
+            <p>But <hi>now,</hi>
+               <note place="margin">The trade of Self either be<g ref="char:EOLhyphen"/>low or againſt the publique-Intereſt &amp; the things of Ieſus Chriſt.</note> if ye <hi>mark</hi> the <hi>diſpoſition</hi> of the <hi>ſelfiſh</hi> man, you ſhall finde, That <hi>either</hi> he mindes not the <hi>publique good,</hi> and the <hi>things of Jeſus Chriſt</hi> at all, or elſe he <hi>mindes his own things,</hi> more then he does <hi>theſe things;</hi> either he <hi>drives a trade below theſe things,</hi> and <hi>far ſhort</hi> of them, or elſe he <hi>drives a trade againſt theſe things,</hi> and in an <hi>abſolute</hi> way of <hi>contradiction</hi> to them.</p>
+            <p>Firſt,
+<milestone type="tcpmilestone" unit="unspecified" n="1"/>
+               <note place="margin">The ſelfiſh mans trade below the publique Intereſt and the things of Chriſt.</note> I ſay, <hi>The natural man,</hi> the <hi>ſelfiſh man,</hi> the <hi>man</hi> that meerly <hi>ſeeks his own things,</hi> he frequently <hi>drives a trade</hi> below the <hi>publique-Intereſt,</hi> and the
+<pb n="25" facs="tcp:117737:15"/>
+               <hi>things of Jeſus Chriſt;</hi> that is to ſay, Provided that he may but <hi>have liberty</hi> to
+<note n="(r)" place="margin">Iam. 5.13.</note> 
+               <hi>buy and ſell, and get gain,</hi> to <hi>feather</hi> his <hi>own neſt,</hi> and to <hi>fill</hi> his <hi>own purſe,</hi> and to make <hi>his own</hi>
+               <note n="(s)" place="margin">Hab. 1.16.</note> 
+               <hi>portion fat and plenteous,</hi> he never <hi>cares</hi> what becomes of the <hi>publique,</hi> or of <hi>the things of Jeſus Chriſt;</hi> let others <hi>look</hi> after <hi>thoſe things,</hi> what <hi>cares</hi> he for them? As they ſaid to <hi>Judas,</hi> when they had <hi>hired</hi> him to <hi>betray</hi> his Maſter, and he came and <hi>complained</hi> to them, that <hi>he had ſinned, in betray<g ref="char:EOLhyphen"/>ing innocent blood;</hi>
+               <note n="(t)" place="margin">Mat. 27.4. <hi>Quid ad nos, hoc eſt, quid no<g ref="char:EOLhyphen"/>ſtra refert, no<g ref="char:EOLhyphen"/>centem prodi<g ref="char:EOLhyphen"/>deris an inno<g ref="char:EOLhyphen"/>centem?</hi> Cornel. Ian<g ref="char:EOLhyphen"/>ſan. in Con<g ref="char:EOLhyphen"/>cord Evang. <hi>Ad modum Caini loquuntur, vera progenies Caini.</hi> Hug. Grot. Annotat. in lib. E<g ref="char:EOLhyphen"/>vang.</note> 
+               <hi>What is that to us?</hi> ſay they; <hi>ſee thou to that:</hi> And ſo, <hi>ſpeak</hi> to the <hi>ſelfiſh</hi> man at any time, about <hi>any thing</hi> that <hi>concerns</hi> the <hi>publique,</hi> about <hi>any thing</hi> that concerns <hi>Religion,</hi> or the <hi>things of Jeſus Chriſt,</hi> What's this to <hi>me?</hi> ſays <hi>he</hi> preſently, let others <hi>look</hi> to that: <hi>There are too many</hi>
+               <note n="(u)" place="margin">Acts 18.17.</note> Gallio<hi>'s that care for none of theſe things.</hi>
+            </p>
+            <p>And <hi>although</hi> this be a very <hi>great</hi> and <hi>ſhameful</hi> ini<g ref="char:EOLhyphen"/>quity,
+<milestone type="tcpmilestone" unit="unspecified" n="2"/>
+               <note place="margin">The ſelfiſh mans trade not onely below, but againſt the publique-in<g ref="char:EOLhyphen"/>tereſt, and the thin<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s of Ieſus Chriſt.</note> yet this is not <hi>all the guilt</hi> that <hi>ſelfiſh</hi> men <hi>con<g ref="char:EOLhyphen"/>tract,</hi> by <hi>doting too much</hi> upon <hi>their own things,</hi> unto not onely a <hi>neglecting,</hi> but unto an <hi>undervaluing</hi> alſo, or <hi>throwing aſide</hi> the <hi>publique good,</hi> and <hi>the things of Jeſus Chriſt;</hi> for ſo you ſhall <hi>finde,</hi> that they do not onely <hi>drive a trade</hi> here below, quite <hi>beneath theſe things,</hi> but <hi>againſt them</hi> likewiſe, or <hi>clean contrary</hi> to them; <hi>This being the property of all ſuch men,</hi> That if at any time <hi>any thing</hi> of their own, <hi>any profit</hi> of their own, <hi>any gain</hi> or <hi>advantage</hi> of their own, ſhall <hi>providentially competition</hi> with the <hi>publique good,</hi> or with <hi>the things of Jeſus Chriſt;</hi> men that have not yet <hi>learned to deny themſelves,</hi> they <hi>muſt</hi> and <hi>can do</hi> no
+<pb n="26" facs="tcp:117737:16"/>
+               <hi>otherwiſe,</hi> then let go <hi>publique,</hi> and
+<note n="(w)" place="margin">
+                  <hi>Vae autem illi cui Chriſtus dicet, Quaſiviſti commodum tuum non meum: Il lud obtinuiſti: Accepiſti igi<g ref="char:EOLhyphen"/>tur mercedem tuam.</hi> Olevian. in cap. 14. Epiſtol ad Rom</note> 
+               <hi>Chriſt,</hi> and <hi>all,</hi> meerly for the <hi>ſatisfaction</hi> of their own
+<note n="(x)" place="margin">
+                  <hi>Qui mavult benè vivere in aeternum malè vivet ad tem<g ref="char:EOLhyphen"/>pus, &amp; qui maluerit benè vivere ad tempus, malè vivet in aeternum: Damnabitur enim ſententiá Dei ad aternam panam, qui coeleſtibus bonis terrena praepoſuit.</hi> Lactant. de Divin. Praem. lib. 7 cap 5.</note> 
+               <hi>private concernments; Then which, how there can be a readier way, or a wickeder way to deſtroy all Government, to pluck it up by the roots, and lay the Honor of it in the duſt, I for my part do not yet underſtand.</hi>
+            </p>
+            <p>And thus have I <hi>endeavored</hi> to lay open the <hi>Myſtery of this great Iniquity,</hi> the <hi>nature</hi> of this <hi>dangerous Ma<g ref="char:EOLhyphen"/>lady</hi> here <hi>complained</hi> of in the <hi>Text,</hi> by <hi>ſhewing</hi> you the <hi>inconſiſtency</hi> of an <hi>inordinate ſeeking of our own things,</hi> with <hi>all Rules</hi> either of <hi>Piety,</hi> or <hi>Unity,</hi> or <hi>Po<g ref="char:EOLhyphen"/>licy.</hi> The <hi>Application</hi> of this <hi>follows</hi> in ſome <hi>few ſhort hints,</hi> and ſo we ſhall conclude.</p>
+            <p>And firſt,
+<label type="milestone">
+                  <seg type="milestoneunit">Uſe. </seg>1</label> if this be <hi>ſo dangerous a Diſtemper, either in a perſon, or in a people, to be inordinately ſtudious, or inquiſitive, about that which is their own;</hi> if <hi>Self</hi> be ſuch a <hi>deſtroyer,</hi> and ſuch a <hi>diſturber,</hi> Then let no man <hi>bleſs himſelf</hi> in this, That he hath no
+<note n="(y)" place="margin">Inward enemies our greateſt ene<g ref="char:EOLunhyphen"/>mies. <hi>Quid nos deci<g ref="char:EOLhyphen"/>pimus? non eſt extrinſecus ma<g ref="char:EOLhyphen"/>lum noſtrum, in<g ref="char:EOLhyphen"/>tra nos eſt: in viſceribus ipſis ſedet, &amp; ideò difficulter ad ſa<g ref="char:EOLhyphen"/>nitatem perveni<g ref="char:EOLhyphen"/>mus, quia nos aegrotare neſci<g ref="char:EOLhyphen"/>mus.</hi> Sen. Ep. 50</note> 
+               <hi>outward Ene<g ref="char:EOLhyphen"/>my</hi> to <hi>combat</hi> withal, no <hi>outward adverſary</hi> to <hi>moleſt</hi> or <hi>trouble</hi> him; for if thou haſt no <hi>enemy</hi> to conteſt with but <hi>thy ſelf,</hi> that's enough: <hi>We our ſelves are natu<g ref="char:EOLhyphen"/>rally the greateſt enemies to our ſelves; O Iſrael, thou haſt deſtroyed thy ſelf,</hi> ſays God; thou needeſt no <hi>out<g ref="char:EOLhyphen"/>ward enemy</hi> to <hi>plunder</hi> thee, or to <hi>ſpoil</hi> thee, or to <hi>rob</hi> thee of all good, for thou haſt done it thy ſelf, <hi>Thou haſt deſtroyed thy ſelf,</hi> Hoſ. 13.9.</p>
+            <p>Secondly,
+<label type="milestone">
+                  <seg type="milestoneunit">Uſe. </seg>2</label> do not <hi>bleſs your ſelves</hi> in this neither, That <hi>no one</hi> can lay any open <hi>notorious</hi> crime to your <hi>charge,</hi> about matters that are <hi>generally</hi> known to be
+<pb n="27" facs="tcp:117737:16"/>
+               <hi>unlawful,</hi> for you may <hi>periſh</hi> even under the <hi>abuſe</hi> of
+<note n="(z)" place="margin">Lawful things muſt not be overuſed <hi>Semper ab illi<g ref="char:EOLhyphen"/>citis, quando<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> &amp; à licitis.</hi> Greg. vid Luk. 17.26.—29. 1 Cor. 7.29, 30, 31.</note> 
+               <hi>lawful</hi> things: Though no <hi>body</hi> can lay any <hi>thing</hi> to your <hi>charge</hi> about <hi>the things of another,</hi> yet you may <hi>periſh for ever,</hi> by reaſon of the <hi>inordinacy</hi> of your <hi>affections</hi> and <hi>endeavors</hi> about <hi>your own things;</hi> though ye <hi>never</hi> had any <hi>covetous, eager,</hi> griping <hi>deſire</hi> in you, to get into your <hi>poſſeſsion</hi> that which was <hi>anothers,</hi> yet you may be <hi>miſerable</hi> enough, either by <hi>detaining,</hi> or <hi>ſeeking</hi> a farther <hi>inlargement</hi> of that which is
+<note n="(a)" place="margin">Our own things liable to very much abuſe. See <hi>Dod</hi> and <hi>Cleaver</hi> on the 7 Command. in the cloſe of the third out<g ref="char:EOLhyphen"/>ward breach of it.</note> 
+               <hi>your own:</hi> A man <hi>needs</hi> no other <hi>miſery,</hi> neither is he <hi>ca<g ref="char:EOLhyphen"/>pable</hi> of any <hi>greater</hi> miſery, then that <hi>which</hi> his <hi>own things,</hi> in their <hi>abuſe,</hi> may very <hi>eaſily</hi> bring upon him, and that very <hi>ſpeedily</hi> too: For, <hi>The better our own things are, the worſe do our</hi>
+               <note n="(b)" place="margin">Corruptio optimi eſt peſ<g ref="char:EOLhyphen"/>ſima.</note> 
+               <hi>corruptions make them;</hi> the <hi>fuller</hi> we are of
+<note n="(c)" place="margin">
+                  <hi>In Saturitate cibi vivens Sodoma, cibus ignis effici meruit.</hi> Fulgent. ad Probam. Epiſt. 3.</note> 
+               <hi>bread,</hi> and all <hi>other</hi> outward <hi>enjoyments,</hi> the nearer <hi>many</hi> times to <hi>perdition,</hi> and <hi>eternal</hi> condemnation.</p>
+            <p>Thirdly, let us from hence be <hi>admoniſhed,</hi>
+               <label type="milestone">
+                  <seg type="milestoneunit">Uſe. </seg>3</label> to bewail the
+<note n="(d)" place="margin">
+                  <hi>Quid ergo horum facimus Chriſtiani, quod Chriſtus, an quod Apoſtolus ju<g ref="char:EOLhyphen"/>bet? Puto omni<g ref="char:EOLhyphen"/>no, quod neu<g ref="char:EOLhyphen"/>trum: Nam tantum abeſt, ut aliorum com<g ref="char:EOLhyphen"/>modis aliquid cum propriâ in<g ref="char:EOLhyphen"/>commoditate praeſtemus, ut omnes vel ma<g ref="char:EOLhyphen"/>ximè noſtris commodis cum aliorum incom<g ref="char:EOLhyphen"/>modo conſula<g ref="char:EOLhyphen"/>mus</hi> Salvian. de Gubern. Dei lib. 3. <hi>Serpit hodic putida rabies per omne corpus Eccleſiae, &amp; quò latius cò despe<g ref="char:EOLhyphen"/>ratius, có<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> periculoſius quò interiùs: Nam ſi infurgeret apertus inimicus hareticus mitterctur for as &amp; areſcerct: ſi violentus inimicus, abſconderet ſe forſitan ab co. Nunc verò quem ejiciet, aut à quo abſcondet ſe? omnes am<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ci, &amp; omnes inimici: omnes neceſſarii, &amp; om<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>es adverſarii: omnes d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>m<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſtici, &amp; nulli pacifici: omnes proximi, &amp; omnes quae ſua ſunt quaerunt: Miniſtri Chriſti ſunt, &amp; ſerviunt Antichriſto; Honorati incedunt de bonis Domini, qui Domino honorem non deferunt.</hi> Bern. ſuper Cantic. Serm. 33.</note> 
+               <hi>rifeneſs</hi> and <hi>frequency</hi> of this great <hi>Evil</hi> amongſt us, that we are <hi>generally</hi> ſo inordinate in the <hi>purſuit</hi> of that which is <hi>our own;</hi> and that <hi>the good of the publique,</hi> and <hi>things of Jeſus Chriſt,</hi> are no more <hi>heeded,</hi> nor no more <hi>regarded</hi> by us: For ſurely this is an <hi>Epidemical Diſeaſe</hi> ſtill, yea is at preſent <hi>The great Diſtemper of</hi> ENGLAND, even that which <hi>hath</hi> been all along <hi>The great Diſtemper of all Mankinde;</hi> Ever ſince the <hi>Fall</hi> we have continued the <hi>riſe</hi> of that firſt <hi>Tranſgreſsion.</hi> In all <hi>Times</hi> and <hi>Ages, Self hath been the great</hi> Diana, <hi>that all the world hath worſhipped,</hi> and that hath ſtill been <hi>ready</hi> to <hi>eat</hi> up all, and to <hi>ſwallow</hi> up all that ever came <hi>near</hi> it; <hi>Gifts, Parts, Victories,
+<pb n="28" facs="tcp:117737:17"/>Deliverances, Prayings, Faſtings, Thankſgivings,</hi> all made <hi>ready</hi> to <hi>bow down</hi> to this <hi>Idol Self,</hi> and to <hi>pro<g ref="char:EOLhyphen"/>ſtrate</hi> themſelves at the <hi>feet</hi> thereof, by <hi>too many</hi> of us; Seldom hath any <hi>great work</hi> been done in the <hi>world,</hi> but <hi>Self</hi> hath put in for a <hi>ſhare;</hi> yea, its <hi>well</hi> if the <hi>whole</hi> hath not been <hi>drowned</hi> in that <hi>dead Sea</hi> of Crea<g ref="char:EOLhyphen"/>ture-advancement, or <hi>Self-exaltation.</hi>
+               <note n="(e)" place="margin">Acts. 19.27.</note>
+            </p>
+            <p>A man would <hi>admire</hi> to ſee what a <hi>narrow</hi> crevis <hi>Self</hi> will creep in at,
+<note place="margin">Too much of Self in the beſt of our own performances.</note> and how <hi>inſenſibly</hi> it many times <hi>ſteals</hi> upon us, in the very <hi>beſt</hi> of our own <hi>performances:</hi> As for Example,</p>
+            <p>When a <hi>people</hi> ſet apart <hi>ſome</hi> days to <hi>Faſt</hi> and <hi>Pray</hi> unto God,
+<note place="margin">Extraordinary Duties inſtan<g ref="char:EOLhyphen"/>ced in.</note> and <hi>other</hi> days to <hi>Rejoyce,</hi> and <hi>give Thanks</hi> unto God, one would think that <hi>Self</hi> ſhould have <hi>no<g ref="char:EOLhyphen"/>thing</hi> to do with theſe <hi>people,</hi> that ſay they meet <hi>pur<g ref="char:EOLhyphen"/>poſely</hi> to <hi>humble</hi> and <hi>abaſe</hi> themſelves firſt, and then <hi>to lift up the Name</hi> of their God; And yet mark the <hi>language</hi> that <hi>God</hi> himſelf uſes to the <hi>Jews,</hi> after they had been a <hi>long</hi> time <hi>exerciſed</hi> in <hi>duties</hi> of this nature, <hi>Iſrael is an empty vine,</hi> ſays he; and why? why <hi>an empty vine? He</hi>
+               <note n="(f)" place="margin">
+                  <hi>Fructum reponit ſibi, id eſt, nemini eſt fructuoſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>: ſi quid profert eo toto in libidi<g ref="char:EOLhyphen"/>nem ſuam abu<g ref="char:EOLhyphen"/>titur.</hi> Iun. &amp; Trem. in loc.</note> 
+               <hi>brings forth fruit unto himſelf,</hi> Hoſ. 10.1. And in <hi>Zech.</hi> 7.5, 6. <hi>When ye faſted and mourned in the fifth and ſeventh moneth, even thoſe ſeventy years, Did ye at all faſt unto me,</hi> ſays God, <hi>even to me? When ye did eat, and when ye did drink, Did ye not eat for your ſelves, and drink for your ſelves?</hi> as if he ſhould have <hi>ſaid,</hi> Both <hi>when</hi> ye <hi>faſted,</hi> and <hi>when</hi>
+               <pb n="29" facs="tcp:117737:17"/>ye <hi>feaſted,</hi> when ye <hi>had</hi> your <hi>days</hi> of <hi>Humiliation,</hi> and when ye <hi>had</hi> your <hi>days of Thankſgiving,</hi> was it <hi>not</hi> ſtill your <hi>ſelves</hi> that ye <hi>aymed at</hi> therein, and not <hi>my Glory?</hi> O what a deal of <hi>ſavoury</hi> precious <hi>oyntment</hi> hath this <hi>dead fly</hi> ſpoiled! How exceeding <hi>uncomely</hi> hath <hi>Self</hi> made <hi>that,</hi> which would <hi>otherwiſe</hi> have been incom<g ref="char:EOLhyphen"/>parably <hi>beautiful</hi> in the <hi>eyes</hi> of <hi>God</hi> and <hi>Men!</hi>
+            </p>
+            <p>When <hi>Jehu</hi> marched ſo <hi>furiouſly</hi> againſt the <hi>Idola<g ref="char:EOLhyphen"/>tries</hi> of the houſe of <hi>Ahab,</hi>
+               <note place="margin">Another ſad inſtance of the miſchief that Self hath done and may do again.</note> and <hi>deſtroyed Baal out of Iſrael,</hi> and carried that <hi>buſineſs</hi> every way ſo <hi>nobly</hi> and <hi>honorably,</hi> that <hi>God</hi> himſelf <hi>gives</hi> this <hi>teſtimony</hi> of him, That <hi>he had done it according to all that was in his heart,</hi> 2 Kings 10.30. Would any one have <hi>thought,</hi> that <hi>ſhould</hi> have <hi>ſeen</hi> him in his <hi>march,</hi> that this <hi>man</hi> had been a <hi>Murtherer</hi> all this while, or <hi>one</hi> that <hi>took</hi> a direct <hi>courſe,</hi> in that very <hi>ſervice to defile himſelf with blood?</hi> And yet, <hi>becauſe</hi> it was not the <hi>Glory of God,</hi> but
+<note n="(g)" place="margin">
+                  <hi>Virtutes quae carnalibus delectationibus, vel quibuſcun<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> commodis &amp; emolument is temporalibus ſerviunt, verae prorſus eſſe non poſſunt: verae quippe virtutes Deo ſerviunt in hominibus, à quo donantur hominibus; Deo ſerviunt in Angelis, à quo donantur etiam Angelis; Quicquid autem bonum fit ab homine, &amp; non propter hoc fit, propter quod fieri debere vera ſaptentia praecipit, ctſi offi<g ref="char:EOLhyphen"/>cio vidcatur bonum, ipſo non recto fine peccatum eſt.</hi> Tho Bradwa din de cauſa Dei lib. 1. cap. 39.</note> 
+               <hi>him<g ref="char:EOLhyphen"/>ſelf</hi> that <hi>Jehu</hi> aymed at <hi>in all this,</hi> therefore, <hi>Yet a little while,</hi> ſays God, <hi>and I will avenge the blood of Jezreel, upon the houſe of Jehu,</hi> Hoſ. 1.4.</p>
+            <p>And therefore
+<note n="(h)" place="margin">
+                  <hi>Quum au<g ref="char:EOLhyphen"/>dimus conque<g ref="char:EOLhyphen"/>rentem Paulum, aurco illo ſecuto quo virtutes omnes, efflorue<g ref="char:EOLhyphen"/>runt tam raros fuiſſe verè cor<g ref="char:EOLhyphen"/>datos, ne animos deſpondeamus ſi hodie talis ſit noſtra conditio: tantum ſibi quiſ<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> caveat, ne jure in hoc catalogo cenſeatur.</hi> Calv. in Text.</note> 
+               <hi>take heed,</hi> I beſeech you,
+<label type="milestone">
+                  <seg type="milestoneunit">Caution. </seg>
+               </label> That this
+<note n="(i)" place="margin">2 Kings 4.39, 40.</note> 
+               <hi>weed be not in the pot;</hi> that this
+<note n="(k)" place="margin">Eccleſ. 10.1.</note> 
+               <hi>dead fly be not in the oyntment;</hi> that this <hi>evil</hi> ſeize not <hi>upon</hi> you <hi>mortally,</hi> or that it <hi>remain</hi> not amongſt you to <hi>ruine</hi> you, either at <hi>this time,</hi> or at <hi>any other time;</hi> this <hi>capital</hi> vice, or <hi>grand</hi> iniquity, that turns all <hi>Bleſsings</hi> into <hi>Curſes,</hi> and all <hi>Mercies</hi> into <hi>Miſeries,</hi> and all <hi>Adminiſtration of Ju<g ref="char:EOLhyphen"/>ſtice</hi>
+               <pb n="30" facs="tcp:117737:18"/>into <hi>Murthers,</hi> and all <hi>preſent Deliverances</hi> into <hi>farther Bondages,</hi> when <hi>Self</hi> is meerly <hi>aymed</hi> at in <hi>what ye do,</hi> and not <hi>the Glory of God.</hi>
+            </p>
+            <p>And yet <hi>I Appeal</hi> to the <hi>Experience</hi> of any <hi>ſober,</hi>
+               <note place="margin">Experience ſhews, that there is a ſu<g ref="char:EOLhyphen"/>perfluity of this naughti<g ref="char:EOLhyphen"/>neſs, or too much of Self every where amongſt us.</note> 
+               <hi>diſcreet, honeſt, impartial</hi> man, that does but <hi>tranſient<g ref="char:EOLhyphen"/>ly</hi> caſt an <hi>eye</hi> upon the <hi>preſent</hi> actings of <hi>men,</hi> whether this be not a <hi>ſeaſon,</hi> wherein the <hi>Apoſtles</hi> complaint <hi>here</hi> in the <hi>Text,</hi> both <hi>may</hi> and <hi>ought</hi> to be <hi>renewed</hi> amongſt us, and <hi>ſadly thought</hi> upon by us: <hi>Doubtleſs</hi> there are in many <hi>parts</hi> of <hi>England,</hi> and more <hi>eſpecially</hi> here in <hi>London,</hi> many <hi>wiſe</hi> men, and many <hi>rich</hi> men, and many <hi>learned</hi> men, and many <hi>valiant</hi> men, and many <hi>large-parted</hi> men, and many <hi>brave-gifted</hi> men, But how many among <hi>all theſe</hi> do <hi>you</hi> or <hi>I know</hi> to be <hi>publique-ſpirited</hi> men?
+<note n="(l)" place="margin">
+                  <hi>Quod omnes dicit, non ur<g ref="char:EOLhyphen"/>genda eſt parti<g ref="char:EOLhyphen"/>cula univerſalis, ut nullam ex<g ref="char:EOLhyphen"/>ceptionem admittas: erant enim alii quo<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan>, qualis Epapbroditu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, ſed pauci: verum omnibus tri<g ref="char:EOLhyphen"/>buit, quod paſſim erat vulgare.</hi> Calv. &amp; Beza in Text.</note> 
+               <hi>All ſeek their own,</hi> ſays the <hi>Apoſtle</hi> here; and may not we <hi>ſay</hi> the very ſame? <hi>Was it ever truer at any time, then now at this time?</hi>
+            </p>
+            <p>And when we <hi>ſeriouſly</hi> minde, or <hi>think</hi> upon theſe <hi>things,</hi> how <hi>exceedingly</hi> ſhould we <hi>commiſerate</hi> or pity the poor <hi>Nation,</hi> that now lies <hi>languiſhing</hi> under this ſad and <hi>dangerous</hi> infirmity; that is now <hi>ſick</hi> of ſuch a <hi>Diſeaſe,</hi> then which there <hi>cannot</hi> be <hi>a greater Diſeaſe;</hi> for in the
+<note n="(m)" place="margin">
+                  <hi>Satis ſu<g ref="char:EOLhyphen"/>per<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> eſt ei qui non eſt captus oculis, ut videat facem praeferre; caco ad viden<g ref="char:EOLhyphen"/>dum non eſt ſa<g ref="char:EOLhyphen"/>tis, ut vel toto ſole feriatur.</hi> Ioh. Camero Praelect. in Pſal 68. Self the great &amp; onely Diſtemper that we have now cauſe to fear.</note> 
+               <hi>eye</hi> of any ſeeing man, what can <hi>there</hi> be more <hi>dangerous,</hi> then that which <hi>holds forth</hi> an abſo<g ref="char:EOLhyphen"/>lute <hi>repugnancy</hi> or contrariety, both to <hi>All Rules of Piety,</hi> and to <hi>All Rules of Unity,</hi> and to <hi>All Rules of Policy?</hi> And as it is the <hi>greateſt,</hi> ſo (as the <hi>caſe</hi> now <hi>ſtands</hi> with us) it is <hi>the onely Diſtemper</hi> that we have <hi>cauſe</hi> to fear, the onely <hi>Diſeaſe</hi> that hath for the <hi>pre<g ref="char:EOLhyphen"/>ſent</hi> any <hi>face of Ruine,</hi> or any <hi>appearance</hi> of <hi>mortality</hi> in it, in <hi>reference</hi> to the <hi>publique.</hi>
+            </p>
+            <pb n="31" facs="tcp:117737:18"/>
+            <p> It is to this <hi>purpoſe</hi> a very <hi>conſiderable</hi> expreſſion of that worthy <hi>Duke</hi> of <hi>Rohan</hi>'s, concerning this <hi>Nation</hi> of ours, in his Book of <hi>THE INTEREST OF THE STATES AND PRINCES OF CHRISTENDOM;</hi> when he <hi>comes</hi> to ſpeak in <hi>par<g ref="char:EOLhyphen"/>ticular</hi> concerning the <hi>Intereſt</hi> of <hi>England,</hi> he ſays,
+<note n="*" place="margin">See page 35. of that Book, where this paſ<g ref="char:EOLhyphen"/>ſage is menti<g ref="char:EOLhyphen"/>oned by that Illuſtrious Duke, as an Aphoriſm of the late Queen <hi>Elizabeths.</hi>
+               </note> That <hi>England is a mighty Animal, which can never dye, except it kill it ſelf:</hi> And ſurely at this <hi>time,</hi> (bleſſed be <hi>God</hi> for it) it is no <hi>other</hi> way like to <hi>kill</hi> it <hi>ſelf,</hi> if <hi>Self</hi> do not <hi>kill</hi> it.</p>
+            <p>And therefore in the <hi>next place,</hi>
+               <label type="milestone">
+                  <seg type="milestoneunit">Uſe. </seg>4</label> let that be one of my <hi>laſt</hi> and <hi>utmoſt</hi> endeavors,
+<note place="margin">Containing an Exhortation to publiquenes of ſpirit, upon ſe<g ref="char:EOLhyphen"/>veral motives: which are</note> to <hi>ſtir up</hi> a mighty <hi>Spirit</hi> in you that are the <hi>Fathers</hi> of this <hi>Famous City,</hi> and <hi>in us all,</hi> for the <hi>Publique,</hi> and <hi>the things of Jeſus Chriſt.</hi>
+            </p>
+            <p>But <hi>here,</hi>
+               <note n="(n)" place="margin">
+                  <hi>Vincitur Sermo rei mag<g ref="char:EOLhyphen"/>nitudine, quan<g ref="char:EOLhyphen"/>to<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> majus fue<g ref="char:EOLhyphen"/>rit quod dicen<g ref="char:EOLhyphen"/>dum eſt; tantò magis obruitur qui magnitudi<g ref="char:EOLhyphen"/>nem rerum verbis non poteſt explicare.</hi> Hier. ad Heliod. de Mort. Nepot. epiſt. 3. Two ways propounded.</note> in the very <hi>Entrance</hi> upon this <hi>great</hi> and neceſſary <hi>work,</hi> of <hi>perſwading</hi> to <hi>publiqueneſs of Spi<g ref="char:EOLhyphen"/>rit:</hi> I confeſs <hi>I am</hi> (and <hi>may</hi> well be) at a <hi>ſtand</hi> in my own <hi>thoughts</hi> about it, having ſo <hi>much</hi> to ſay, that I <hi>know</hi> not <hi>well</hi> what to ſay; —<hi>inopem me copia fecit,</hi> Plenty hath made me poor. When a <hi>man</hi> hath the <hi>publique good</hi> before him, and <hi>the things of Jeſus Chriſt</hi> before him, he hath rather <hi>too much</hi> then <hi>too little,</hi> having then <hi>all before him</hi> that is any way <hi>need<g ref="char:EOLhyphen"/>ful</hi> to be <hi>ſpoken</hi> to.</p>
+            <p>But I ſhall <hi>exceedingly</hi> contract <hi>my ſelf,</hi> and <hi>draw</hi> up all <hi>under</hi> theſe two <hi>Heads:</hi> Something I <hi>ſhall</hi> ſpeak, 1. More <hi>generally,</hi> or at <hi>large</hi> to it; And ſecondly, Something alſo more <hi>cloſely</hi> or particularly.</p>
+            <p>In the <hi>general,</hi> I beſeech you to <hi>conſider,</hi>
+            </p>
+            <p>Firſt,
+<milestone type="tcpmilestone" unit="unspecified" n="1"/>
+               <note place="margin">More generally.</note> that as <hi>nothing</hi> elſe hath <hi>heretofore</hi> been ſo <hi>diſhonorable</hi> and <hi>deſtructive,</hi> unto
+<note n="*" place="margin">
+                  <hi>Po<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> quam imperatores Ro<g ref="char:EOLhyphen"/>mani caeperunt de induſtria Chriſtianos atrocitate ſup<g ref="char:EOLhyphen"/>pliciorum à Chriſto abſter<g ref="char:EOLhyphen"/>rere, nunquam illis bene fuit; aut pauci corum, aut nullus ferè, ficea morte deſcendit ad generum cereris.</hi> Camer. Prael. ct. de verb. Dei pag. 444. Col. 2.</note> 
+               <hi>Governors</hi> and o<g ref="char:EOLhyphen"/>thers (whether among <hi>our ſelves</hi> or <hi>elſwhere</hi> in the
+<pb n="32" facs="tcp:117737:19"/>World) as when they have <hi>degenerated</hi> from the <hi>pub<g ref="char:EOLhyphen"/>lique-Intereſt,</hi> to lay hold upon <hi>Principles</hi> and <hi>Pra<g ref="char:EOLhyphen"/>ctices</hi> of <hi>Cruelty</hi> and <hi>Diſorder,</hi> and ſo <hi>have</hi> been ready <hi>Inſtruments</hi> in the hand of <hi>Satan,</hi> to <hi>perſecute</hi> thoſe that ſhould have been <hi>protected</hi> by them. As <hi>this</hi> hath been the <hi>ruine</hi> and <hi>overthrow</hi> of <hi>Governments</hi> and <hi>Go<g ref="char:EOLhyphen"/>vernors</hi> formerly;</p>
+            <p>So <hi>conſider</hi> ſecondly,
+<milestone type="tcpmilestone" unit="unspecified" n="2"/> That nothing could be a <hi>greater</hi> Honor or <hi>Ornament</hi> unto you then <hi>this</hi> would be, If the <hi>Lord</hi> himſelf would but <hi>pleaſe</hi> to clothe you with a <hi>publique</hi> Spirit;
+<note place="margin">Iob 29.11.</note> 
+               <hi>This would make the eye that ſees you to bleſs you, and the ear that hears you to give wit<g ref="char:EOLhyphen"/>neſs to you;</hi> yea, and beſides the many ſweet <hi>refreſh<g ref="char:EOLhyphen"/>ments</hi> that others would <hi>receive</hi> by this <hi>means</hi> from you: How could there be <hi>any thing</hi> more <hi>ſweet,</hi> or <hi>ſavory,</hi> or <hi>comfortable</hi> in your own <hi>boſoms,</hi> then this, That ye <hi>have</hi> put on <hi>high,</hi> and <hi>holy,</hi> and <hi>heavenly</hi> Re<g ref="char:EOLhyphen"/>ſolutions, in the <hi>ſtrength</hi> of <hi>God</hi> to <hi>live</hi> and <hi>dye</hi> to the <hi>Publique,</hi> and even to <hi>contemn</hi> or deſpiſe <hi>your own things,</hi>
+               <note place="margin">Something ſuggeſted in the general from hence that is of con<g ref="char:EOLhyphen"/>cernment.</note> in <hi>compariſon</hi> of <hi>the things of Chriſt?</hi> which is <hi>certainly</hi> the <hi>Duty</hi> both of <hi>Magiſtrates,</hi> and of <hi>Miniſters,</hi> and of <hi>All</hi> that are <hi>called Chriſtians,</hi> even thus to be, for the <hi>Publique,</hi> and for <hi>the things of Chriſt.</hi>
+            </p>
+            <p>That
+<note place="margin">I. <hi>To Ma<g ref="char:EOLhyphen"/>giſtrates.</hi>
+               </note>
+               <note n="(o)" place="margin">
+                  <hi>Inter ho<g ref="char:EOLhyphen"/>mines egregium hominem eſſe convenit, qui mulitudini praſit: inter Chriſtianos poteſtate functurus, non modo egregius homo, ſed &amp; egregius Chriſtianus eſſe debet: Egregium autem Chriſtianum veco, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>on qui potentia, robore, &amp; opibus, ſed qui fide in Chriſtum, dilectione erga fratres, zelo Dei, ſtudio juſtitiae, &amp; ſanctimonia vitae caeteris ſit Chriſtianis praeſtantior; Quibus libertas eſt eligendi Magiſtratus, tales ex omni populo quaerant &amp; eligant.</hi> Muſc. loc. Com. tit. de Magiſt. p. 573. See <hi>Jethro</hi>'s advice to <hi>Moſes, E<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>od.</hi> 18.21.</note> 
+               <hi>Magiſtrate</hi> loſes his <hi>Honor,</hi> and extremely <hi>diſgraces</hi> that <hi>high Place</hi> God hath <hi>called</hi> him unto, who hath not yet <hi>learned</hi> to <hi>prefer</hi> the <hi>publique good,</hi> before his own <hi>private good.</hi>
+            </p>
+            <pb n="33" facs="tcp:117737:19"/>
+            <p> That
+<note n="(p)" place="margin">
+                  <hi>Damnatur</hi> (ſc. <hi>verbi Mi<g ref="char:EOLhyphen"/>niſter) ſi ita quae ſua ſunt curet, ut quae ſunt Je<g ref="char:EOLhyphen"/>ſu Chriſti negli<g ref="char:EOLhyphen"/>gat: Hoc enim eſt quaererc quae ſunt ſua, non quae Jeſu Chriſti: Damnatur ctiam, ſi ideo accedit ad miniſterium, &amp; illud exercet, ut ſibi conſulat, non autem Eccleſiae Chriſti: Hoc eſt enim quaerere quae ſunt ſua: Finis quem <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ibi in tuis actionibus proponis, efficit ut dicaris quaerere, vel quae ſunt Chriſti, vel quae ſunt tua.</hi> Zanch. in Text.</note> 
+               <hi>Miniſter</hi> is no <hi>Miniſter,</hi>
+               <note place="margin">II. <hi>To Mi<g ref="char:EOLhyphen"/>niſters.</hi>
+               </note> no fit <hi>man</hi> for ſuch an <hi>imployment,</hi> that is either <hi>wholly ignorant</hi> of the <hi>things of Chriſt,</hi> or that is but any way <hi>careleſs</hi> or <hi>negligent</hi> about them; or that hath not yet <hi>learned</hi> to prefer <hi>the things of Chriſt</hi> before his <hi>own things,</hi> yea the <hi>leaſt</hi> and <hi>loweſt</hi> of the <hi>things of Chriſt,</hi> before the <hi>greateſt</hi> and <hi>higheſt</hi> of his <hi>own things.</hi>
+            </p>
+            <p>That <hi>Chriſtian</hi> is no <hi>Chriſtian,</hi>
+               <note place="margin">III. <hi>To All of us.</hi>
+               </note> he hath but <hi>a</hi>
+               <note n="(q)" place="margin">Rev. 3.1.</note> 
+               <hi>name to live, and is dead,</hi> who hath not yet <hi>learned</hi> to
+<note n="(r)" place="margin">Luke 9.23.</note> 
+               <hi>de<g ref="char:EOLhyphen"/>ny himſelf</hi> in
+<note n="(r)" place="margin">
+                  <hi>Animad ver<g ref="char:EOLhyphen"/>te frater, non tibi licet de tuis quidquam habe<g ref="char:EOLhyphen"/>re rebus: omnis, inquit Dominus, qui non renuntiaverit cunctis, quae poſſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>det, non poteſt meus eſſe diſcipulus: Filius hominis non habet ubi caput reclinet, &amp; tu amplas porticus, &amp; ingentia rectorum spatia metiris? Haeredi<g ref="char:EOLhyphen"/>tatem expectans ſ<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>uli, cohaeres Chriſti <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſſe non poteris.</hi> Hieron. ad Heliodor. Epiſtol. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> all his <hi>own things,</hi> and to
+<note n="(s)" place="margin">
+                  <hi>Erras frater, Erra<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, ſi putas unquam Chriſti<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>num perſecutionem non pati: Tunc maximè oppugnaris, ſi te oppug<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ri neſcis.</hi> Idem. ibid.</note> 
+               <hi>take up his croſs daily,</hi> and to <hi>follow the</hi>
+               <note n="(t)" place="margin">
+                  <hi>Quocun<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> te vocat Chriſtus cundum eſt properè, altis omnibus relict<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>: ita reſt icierda tibi eſt vocatio tut, ut ab omnibus avocamentis, ſenſus tuos omnes avertas: Jure tao cedendum eſt, ut officium facias: tut ratio Chriſti gloriae ne<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> prae<g ref="char:EOLhyphen"/>ferenda eſt, ne<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> aequanda.</hi> Calv. in Text.</note> 
+               <hi>Lamb whitherſoever he ſhall lead him;</hi> ſaying to <hi>Jeſus,</hi> as the <hi>people</hi> unto <hi>Joſhua, All that thou commandeſt me will I do, and whi<g ref="char:EOLhyphen"/>therſoever thou ſendeſt me will I go,</hi> Joſh. 1.16.</p>
+            <p>More <hi>particularly,</hi>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> to prevail with you for this <hi>pub<g ref="char:EOLhyphen"/>liqueneſs</hi> of Spirit; look <hi>upwards,</hi> and look <hi>downwards,</hi>
+               <note place="margin">More particu<g ref="char:EOLhyphen"/>larly.</note> look upon <hi>God,</hi> and look upon <hi>your ſelves,</hi> and there ye ſhall finde <hi>Arguments</hi> enough for <hi>publiqueneſs</hi> of Spirit.</p>
+            <p>Firſt, look <hi>upwards</hi> unto <hi>God,</hi> there being <hi>nothing</hi> better for <hi>any</hi> of us, <hi>then</hi> to have our <hi>thoughts</hi> often
+<pb n="34" facs="tcp:117737:20"/>
+               <hi>aſcending,</hi> rather then <hi>deſcending;</hi> eſpecially <hi>nothing</hi> ſafer for <hi>Magiſtrates,</hi> that are called to <hi>judge</hi> others, then to be <hi>often</hi>
+               <note n="(v)" place="margin">
+                  <hi>Boni judicis eſt ſu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>picere non deſpt<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ere.</hi> Ferus in Ioh 5.30.</note> looking up unto that <hi>God,</hi> who will one day <hi>judge</hi> them.</p>
+            <p>And in your <hi>looking upwards</hi> unto <hi>God,</hi>
+               <note place="margin">Motives to publiquenes of Spirit from all the three Per<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ns in the Trinity, looked upon</note> do not any way <hi>ſtraiten</hi> your ſelves, but <hi>look</hi> upon all the <hi>Three Perſons</hi> in the ever bleſſed <hi>Trinity;</hi> look upon them <hi>ſeverally,</hi> or look upon them <hi>joyntly,</hi> and you ſhall both <hi>ways</hi> finde <hi>them</hi> to be (what they in a due <hi>propor<g ref="char:EOLhyphen"/>tion</hi> would have <hi>you</hi> to be) a <hi>publique good.</hi>
+            </p>
+            <p>Look upon them <hi>ſeverally</hi> firſt,
+<milestone type="tcpmilestone" unit="unspecified" n="1"/>
+               <note place="margin">Severally.</note> and then if your <hi>ap<g ref="char:EOLhyphen"/>prehenſions</hi> of them be not
+<note n="(u)" place="margin">
+                  <hi>Omnis intel<g ref="char:EOLhyphen"/>lectus qui phan<g ref="char:EOLhyphen"/>taſticâ quadam <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ogitatio<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e qu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſi <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Dioinam natu<g ref="char:EOLhyphen"/>r<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>m apprehendit, ſ<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>u<gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                        <desc>••••</desc>
+                     </gap>rum quidem Dei ſ<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>xit inmente, Deum autem non intellexit.</hi> Greg. Nyſſen. de vit. Moſis.</note> 
+               <hi>phantaſtical,</hi> or vainly <hi>conjectural,</hi> but
+<note n="(w)" place="margin">Vid. Aug. de Trinit. Zanch de trib. Eloh. lib. 1. cap. 4. Lombard. Sentent. lib. 1. Diſtinct. 9. R<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>nold. Confer. with Hart, Chap. 2. Diviſ. 2. &amp; Al.</note> pure <hi>Evangelical apprehenſions,</hi> ye cannot but <hi>look</hi> upon <hi>all</hi> and <hi>each</hi> of them as a <hi>publique</hi> good; <hi>God the Father</hi> being in himſelf <hi>a publique good, Jeſus Chriſt a publique good, The Spirit of Grace and Truth a publique good.</hi>
+            </p>
+            <p>Secondly,
+<milestone type="tcpmilestone" unit="unspecified" n="2"/> look upon them <hi>joyntly,</hi> as they are three <hi>diſtinct Perſons,</hi>
+               <note place="margin">Ioyntly. See the Annet. of <hi>H. Ainſworth</hi> on this place.</note> and but <hi>one God,</hi> and ſo they are <hi>a publique good: (x) Hear O Iſrael, the Lord our God is one Lord,</hi> ſays <hi>Moſes,</hi> Deut 6.4. <hi>And unto us there is but one God,</hi> ſays the Apoſtle, 1 <hi>Cor.</hi> 8.6. one <hi>God,</hi> and one <hi>Good;</hi> and that <hi>Good</hi> the <hi>chief Good;</hi> and therefore <hi>the chief Good,</hi>
+               <note place="margin">Summum b<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nu<g ref="char:cmbAbbrStroke">̄</g> eſt ſummè pub<g ref="char:EOLhyphen"/>licum bonum.</note> becauſe <hi>a publique Good:</hi> with all due <hi>reverence</hi> be it ſpoken, <hi>God himſelf could not be the chief Good, if he were not the chief publique Good:</hi> And therefore this muſt needs be <hi>the Excellency of Excellencies,</hi> the moſt
+<note n="(y)" place="margin">
+                  <hi>Qui amat quod verè pu<g ref="char:EOLhyphen"/>tat <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſſe ſummum bonum, id unicè amat: Ita<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> ut id redimat, nihil non facit, nihil haber penſi: Exemplo ſit in Evangelio, qui theſaurum reperit in agro, agrum emit, &amp; qui ſcri<g ref="char:EOLhyphen"/>pſit— Inveni Portum, ſpes &amp; fortuna valete, N<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>l mihi vobiſcum, ludite nunc alios.</hi> Camer. Collat. cum T<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>len. pag. 650. col. 2. <hi>Minus te amat, qui tecum aliquid amat quod non pr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>pter te am<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t.</hi> Aug Confeſſ. <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 10. cap. 29.</note> amiable excellency in all the world, to be of a <hi>publique Spirit;</hi> ſince there is not a
+<pb n="35" facs="tcp:117737:20"/>
+               <hi>greater excellency,</hi> no not in <hi>God Himſelf,</hi> then that which this <hi>amounts</hi> to.</p>
+            <p>When ye have thus <hi>looked</hi> up unto <hi>God,</hi>
+               <note place="margin">Other Motives to publiquenes of Spirit, from our ſelves, be<g ref="char:EOLhyphen"/>ing loked upon</note> then <hi>reflect</hi> or look back upon <hi>your ſelves;</hi> Look upon <hi>your ſelves</hi> as <hi>Chriſtians,</hi> or look upon <hi>your ſelves</hi> but as <hi>reaſonable men;</hi> and under both theſe <hi>Conſiderations,</hi> ye ſhall have <hi>mighty Arguments</hi> for a <hi>publique Spirit.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> Firſt, <hi>look</hi> upon your ſelves as <hi>Chriſtians,</hi> and then what <hi>maner of perſons ought ye to be,</hi>
+               <note place="margin">As Chriſtians. <hi>Chriſtianitas eſt Chriſto conformitas.</hi>
+               </note> but ſuch as <hi>Chriſt</hi> himſelf was? <hi>Godlineſs</hi> is <hi>God-likeneſs; Chriſtianity</hi> is <hi>Chriſt-conformity;</hi> and if ye do <hi>throughly</hi> conform to him, ye muſt of <hi>neceſsity</hi> be of a <hi>marvellous</hi> large and <hi>publique</hi> Spirit: For <hi>never</hi> was the world <hi>acquaint<g ref="char:EOLhyphen"/>ed</hi> with ſuch another <hi>Example</hi> of <hi>Self-denyal,</hi> with ſuch another <hi>Preſident</hi> for <hi>publiqueneſs of Spirit,</hi> as that which <hi>Christ</hi> held forth; which is <hi>plainly</hi> and clearly <hi>intimated</hi> or held forth unto us, by thoſe <hi>ex<g ref="char:EOLhyphen"/>preſsions,</hi> where it is ſaid, that <hi>he</hi>
+               <note n="(y)" place="margin">Phil. 2.7. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>ſemetipſum exi<g ref="char:EOLhyphen"/>nanivit</hi> Vulg. <hi>Exhauſit ſemet<g ref="char:EOLhyphen"/>ipſum,</hi> Tertul. adverſus Mar<g ref="char:EOLhyphen"/>cion. lib. 5.</note> 
+               <hi>emptied himſelf,</hi> and that he
+<note n="(z)" place="margin">Gal. 2.20.</note> 
+               <hi>gave himſelf for us,</hi> &amp;c. that is, All that <hi>excellent glory</hi> that he was <hi>poſſeſſed</hi> of with the <hi>Father</hi> from all <hi>Eternity,</hi> he gave it <hi>all away,</hi> he <hi>emptied himſelf</hi> of it all, for the <hi>good</hi> of the <hi>Elect</hi> of <hi>God,</hi> for the <hi>benefit</hi> and <hi>advantage</hi> of <hi>poor,</hi> ſinful, <hi>undone</hi> crea<g ref="char:EOLhyphen"/>tures: He came from the <hi>highest degree of ſublimity,</hi> and he ſtooped to the <hi>lowest degree of ignominy;</hi> for he did not onely
+<note n="(a)" place="margin">John 17.9.</note> 
+               <hi>Pray</hi> for us, and
+<note n="(b)" place="margin">Luke 22.44. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Grumi ſanguinis. vide Crit. Sacr. by E. L. in voc. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> 
+               <hi>Sweat</hi> for us, and
+<note n="(c)" place="margin">Eph. 1.7.</note> 
+               <hi>Bleed</hi> for us, and
+<note n="(d)" place="margin">2 Cor. 5.15.</note> 
+               <hi>Dye</hi> for us, but he was <hi>made</hi>
+               <note n="(e)" place="margin">Mark 9.12. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. pro nilulo habea<g ref="char:EOLhyphen"/>tar. vid. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ez. &amp; Eraſm. hic.</note> 
+               <hi>vile, and of no reputation;</hi> he was
+<note n="(f)" place="margin">Gal. 3.13.</note> 
+               <hi>made a curſe,</hi> yea he <hi>was</hi>
+               <note n="(g)" place="margin">2 Cor. 5.21.</note> 
+               <hi>made ſin for us,</hi> as ye know the Scri<g ref="char:EOLhyphen"/>pture ſpeaks.</p>
+            <pb n="36" facs="tcp:117737:21"/>
+            <p> Let me for this, <hi>intreat</hi> you to caſt your <hi>eyes</hi> more <hi>eſpecially</hi> upon that one <hi>place</hi> of Scripture,
+<note place="margin">2 Cor 8.9. opened.</note> 2 <hi>Cor.</hi> 8.9. The Apoſtle was there <hi>ſtirring</hi> up the <hi>Corinthians</hi> unto <hi>liberality,</hi>
+               <note place="margin">An Exhortati<g ref="char:EOLhyphen"/>on to liberality 1. Propounded, v. 7.</note> unto a liberal <hi>contribution</hi> towards the <hi>relief</hi> of the <hi>poor Saints</hi> of God: At the 7 <hi>v.</hi> of that Cha<g ref="char:EOLhyphen"/>pter, his words are theſe, <hi>Therefore (as ye abound in every thing elſe, in faith, and utterance, and knowledge, and in all diligence, and in your love to us) ſee that ye abound in this grace alſo,</hi> this grace of <hi>liberality:</hi> And he uſes the <hi>greateſt Argument</hi> in the world to <hi>perſwade</hi> hereunto, to perſwade the <hi>Corinthians</hi> (and in them us) unto <hi>liberality;</hi>
+               <note place="margin">2. Argued v. 9. Two things in the argument.</note> for ſays he, <hi>Ye know the grace of our Lord Jeſus Chriſt, that though he was rich, yet for your ſakes he became poor, that ye through his poverty might be rich.</hi>
+            </p>
+            <p>I pray mark,
+<milestone type="tcpmilestone" unit="unspecified" n="1"/>
+               <note place="margin">The riches of Chriſt.</note> 
+               <hi>He was rich,</hi> ſays the Apoſtle; <hi>Jeſus Chriſt was rich:</hi> How <hi>rich</hi> was he? ſo <hi>rich,</hi> that he was
+<note n="(h)" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, H<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>b. 1.2.</note> 
+               <hi>Heir of all things:</hi> Look how <hi>rich</hi> God him<g ref="char:EOLhyphen"/>ſelf was, even
+<note n="(i)" place="margin">
+                  <hi>Nos autem ci<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ites ſu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> pau<g ref="char:EOLhyphen"/>pertate nul<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>te<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>us faceret, ſi pauper factus naturalis divi<g ref="char:EOLhyphen"/>r<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>tis in ſe d<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>itias non haberet: Pauper ergo factus eſt, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> f<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rmam ſervi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ives per<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>ſit. ſecand<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>m <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> T<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>i.</hi> Pulgent. contra Sermon. Faſtid. cap. 13.</note> 
+               <hi>ſo rich</hi> Jeſus Chriſt was: for he
+<note n="(k)" place="margin">Phil 2.6.</note> 
+               <hi>thought it no robbery to be equal with God;</hi>
+               <note n="(l)" place="margin">C. l. 2.9.</note> 
+               <hi>The fulneſs of the Godhead dwelt in him bodily:</hi> The Lord himſelf ſays of him, <hi>He is my fellow,</hi> not onely
+<note n="(m)" place="margin">I<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 41.8.</note> 
+               <hi>my friend</hi> (as <hi>Abraham</hi>) but my fellow; <hi>Awake, O ſword, againſt my Shepherd, and</hi>
+               <note n="(n)" place="margin">
+                  <hi>Super v<gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                        <desc>••••</desc>
+                     </gap> contribalem m<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>m:</hi> Ita Symmach. Vid. Ioh. Druſ. Fragment. in Zach. Montin. &amp; Iun. in lo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> 
+               <hi>againſt the man that is my fellow, ſaith the Lord of Hoſts,</hi> Zech. 13.17.</p>
+            <p>And yet <hi>though</hi> he was thus <hi>rich,</hi>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> and thus <hi>great,</hi> yet ſays the Apoſtle,
+<note place="margin">The poverty of Chriſt.</note> 
+               <hi>For your ſakes he became poor;</hi> How <hi>poor?</hi> ſo <hi>poor,</hi> that there was hardly <hi>ever</hi> any one <hi>poorer,</hi> in regard of <hi>outward things;</hi> for
+<note n="(o)" place="margin">Mat. 8.20.</note> 
+               <hi>The foxes
+<pb n="37" facs="tcp:117737:21"/>had holes, and the birds of the ayr had neſts, but the Son of man knew not where to lay his head:</hi> And all this <hi>poverty</hi> did he voluntarily <hi>ſubject himſelf</hi> unto,
+<note n="(p)" place="margin">
+                  <hi>Poſſideart opes ſub Chriſto paupere, quas ſab locuplete Diab<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>lo non ha<g ref="char:EOLhyphen"/>buerant: &amp; ſuspiret cos Ec<g ref="char:EOLhyphen"/>cleſia divites, quos tenuit mundus ante mendicos.</hi> Hier. ad Hel<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>odor. Epiſt 3.</note> that <hi>we through his poverty might be made rich,</hi> or that we might be made
+<note n="(q)" place="margin">Eph. 1.18.</note> 
+               <hi>the riches of God</hi> in him: Now ſays the Apoſtle here in this <hi>Chapter</hi> to the <hi>Philippians,</hi> Phil. 2.5. (where he ſtill <hi>ſpeaks</hi> upon the ſame <hi>account,</hi> upon the very ſame <hi>ground</hi> or conſideration) <hi>Let the ſame minde be in you,</hi> ſays he, that was <hi>alſo in Jeſus Chriſt;</hi> and as he <hi>humbled</hi> himſelf, and <hi>emptied</hi> him<g ref="char:EOLhyphen"/>ſelf <hi>for the good of you all,</hi> even ſo be ye <hi>willing</hi> from time to time to <hi>humble</hi> your ſelves, and to <hi>empty</hi> your ſelves <hi>for the good of one another.</hi>—Thus then as <hi>Chri<g ref="char:EOLhyphen"/>ſtians</hi> there are ye ſee very <hi>ſtrong engagements</hi> upon you, <hi>to be of a publique Spirit.</hi>
+            </p>
+            <p>Or if this were not, yet in the ſecond place,
+<milestone type="tcpmilestone" unit="unspecified" n="2"/>
+               <note place="margin">As reaſonable m<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n.</note> if ye <hi>look</hi> but upon your ſelves <hi>as reaſonable men,</hi> That alſo calls for <hi>publiqueneſs of Spirit:</hi> For I would but <hi>ask</hi> any man in this <hi>Congregation,</hi> or any man <hi>elſwhere,</hi> that hath but a <hi>competency</hi> of Reaſon to <hi>guide</hi> him in his way, Do you <hi>think</hi> that he is a <hi>good Commonwealths<g ref="char:EOLhyphen"/>man,</hi> or a good Patriot,
+<note n="(r)" place="margin">
+                  <hi>Sanis ho<g ref="char:EOLhyphen"/>minibus public<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> pr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>vitis potiora <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                  </hi> S<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>de C<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>em lib. 1. cap. 4. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. A<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ſt. Polit. l. 8. cap. 1. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Xenophen de Venat.</note> 
+               <hi>that prefers his own private wealth, before the good of the Commonwealth?</hi> There is no man that muſt <hi>dare</hi> to <hi>affirm</hi> this, who would not <hi>have</hi> his own <hi>Underſtanding</hi> to riſe up in <hi>Judgement</hi> againſt him.</p>
+            <p>So that the <hi>Stone</hi> that I have all this while been <hi>rolling,</hi> it now comes <hi>down</hi> with all the <hi>weight</hi> of <hi>Hea<g ref="char:EOLhyphen"/>ven</hi> and <hi>Earth</hi> upon it, purpoſely to <hi>deſtroy Self</hi> among
+<pb n="38" facs="tcp:117737:22"/>you, ſinful, <hi>inordinate</hi> Self: And I pray <hi>take heed,</hi> for by the
+<note n="(s)" place="margin">Chriſt (the Shepherd and the Stone of Iſrael, Gen. 49.24.) is in nothing ſo much concerned, as in that which is of publique concern<g ref="char:EOLhyphen"/>ment; and there<g ref="char:EOLhyphen"/>fore in that re<g ref="char:EOLhyphen"/>ſpect eſpecially, whoſoever fal<g ref="char:EOLhyphen"/>leth on this Stone ſhall be broken, but on whomſo<g ref="char:EOLhyphen"/>ever it ſhall fall, it will grinde him to powder, Matth. 21.44.</note> 
+               <hi>Fall</hi> of it (which is <hi>very</hi> great) it muſt of <hi>ne<g ref="char:EOLhyphen"/>ceſsity</hi> either <hi>deſtroy that,</hi> or <hi>deſtroy you;</hi> either it muſt <hi>grinde that to powder,</hi> or elſe <hi>grinde you to powder. The ſum of all being this,</hi> That if there be any thing of <hi>God</hi> in you, or any thing of <hi>Chriſt,</hi> or any thing of the <hi>Spirit,</hi> or any thing of <hi>Chriſtianity,</hi> or any thing of <hi>Humanity,</hi> Then ye <hi>muſt not</hi> any longer <hi>minde your own things,</hi> or ſeek your <hi>own things</hi> any <hi>otherwiſe,</hi> then in a way of <hi>humble ſubſerviency</hi> unto the <hi>publique good,</hi> and the <hi>things of Jeſus Chriſt.</hi>
+            </p>
+            <p>And as for <hi>matter</hi> of <hi>Advice</hi> or <hi>Counſel</hi> herein,
+<label type="milestone">
+                  <seg type="milestoneunit">Uſe. </seg>5</label> how to <hi>attain</hi> unto this <hi>publiqueneſs of Spirit,</hi>
+               <note place="margin">Containing a word of Ad<g ref="char:EOLhyphen"/>vice about the attainment of a publique Spirit. The main dif<g ref="char:EOLhyphen"/>ference be<g ref="char:EOLhyphen"/>tween Gods Spirit &amp; mans.</note> I ſhall ſay no <hi>more</hi> to that but <hi>onely this,</hi> That <hi>certainly</hi> it is in this <hi>reſpect</hi> a very <hi>ſad thing</hi> to be <hi>left</hi> unto our <hi>own Spirits,</hi> and a very <hi>bleſſed thing</hi> to be <hi>acted</hi> by <hi>Gods holy Spirit,</hi> in all our <hi>ways</hi> and <hi>walkings:</hi> This being the <hi>main Difference</hi> between the <hi>Spirit of God,</hi> and <hi>mans Spirit,</hi> That the <hi>Spirit of man</hi> is a <hi>private narrow</hi> Spirit, but the <hi>Spirit of God</hi> is a <hi>large publique</hi> Spirit, and ſuch as will every way <hi>reach</hi> or <hi>extend</hi> it ſelf to all the <hi>con<g ref="char:EOLhyphen"/>cernments</hi> of a <hi>Chriſtian,</hi> in one <hi>kinde</hi> and another: And if <hi>God Himſelf</hi> once <hi>put</hi> this holy <hi>Spirit</hi> of his within you (which is one of his often-repeated <hi>Promiſes</hi> unto his People) Then ſo <hi>long</hi> as ye are <hi>acted</hi> thereby,
+<note place="margin">Iſa. 44.3. Ezek. 36.27. Ioel 2.28. Zech. 12 10. Luke 11.13. Ioh 7.33.39. Acts 2.17, 18, Gal. 3.14.</note> ye <hi>muſt</hi> and <hi>can do</hi> no other, then <hi>prefer</hi> the <hi>Good of the publique,</hi> and <hi>the things of Jeſus Chriſt,</hi> before <hi>any thing elſe,</hi> that does but meerly <hi>reſpect</hi> or <hi>concern</hi> your ſelves.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="errata">
+            <pb facs="tcp:117737:22"/>
+            <head>ERRATA.</head>
+            <p>SOme literal faults have eſcaped in Printing, which the Reader is intreat<g ref="char:EOLhyphen"/>ed thus to Correct: Page 9. line 20. <hi>for</hi> you <hi>read</hi> your, p. 19. in the Greek Note out of <hi>Chryſoſtom, for</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>r.</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>for</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>r.</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, p. 21. in the note, <hi>for</hi> Ciero <hi>r.</hi> Cicero, p. 25. in the note, <hi>for</hi> Ianſan. <hi>r.</hi> Ianſen.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
